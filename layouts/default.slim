@@ -1,0 +1,100 @@
+doctype html
+html lang=lang_for(@item)
+  head
+    meta charset="utf-8"
+    title
+      - if @item.path != "/" and @item[:title]
+        = @item[:title]+" - Atelier Sonnenschein"
+      - else
+        | Kostüm- & Modeatelier Sonnenschein
+
+    meta name="author" content="Kirstin Rohwer"
+
+    - if @item[:published]
+      meta name="date" content=@item[:published].strftime("%Y-%m-%d")
+
+    meta name="description" content=abstract_for(@item)
+
+    meta name="twitter:card" content="summary_large_image"
+    meta name="twitter:site" content="@LarpSchneiderin"
+    meta name="twitter:title" content=@item[:title]
+    meta name="twitter:description" content=abstract_for(@item)
+    meta name="twitter:creator" content="@LarpSchneiderin"
+    meta name="twitter:image" content=domain[0..-2]+thumbnail_for(@item)
+
+    meta property="og:title" content=@item[:title]
+    meta property="og:type" content="website"
+    meta property="og:url" content=domain[0..-2]+@item.path
+    meta property="og:image" content=domain[0..-2]+thumbnail_for(@item)
+    meta property="og:description" content=abstract_for(@item)
+
+    - if @item[:noindex]
+      meta name="robots" content="noindex"
+
+    meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"
+
+    link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"
+    link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"
+    link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"
+    link rel="manifest" href="/assets/favicons/site.webmanifest"
+    link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"
+    link rel="shortcut icon" href="/assets/favicons/favicon.ico"
+    meta name="msapplication-TileColor" content="#da532c"
+    meta name="msapplication-config" content="/assets/favicons/browserconfig.xml"
+    meta name="theme-color" content="#ffffff"
+
+    link rel="stylesheet" href="/assets/style.css"
+
+    - if ["/news/", "/galerie/"].include? @item.path
+      script src="https://code.jquery.com/jquery-3.1.1.min.js"
+      script src="/assets/filter.js"
+
+  body
+
+   #sidebar 
+      #navimg
+		a href="/"
+          img src="/assets/images/profilbild_transparent.svg" alt="Logo"
+		<br>
+	  #nav
+		- menuitems = [["larp-gewandung", "mode-und-kostueme"],["naehkurse", "kleider-mit-taschen"],["galerie", "faq", "kontakt"]]
+		- for group in menuitems
+			ul
+				- for menustring in group
+					- menuitem = @items["/"+menustring+"/index.*"]
+					li class=("current" if @item.path == menuitem.path)
+						a href=("/"+menustring+"/") ==menutext_for(menuitem)
+
+   #content
+      - unless @item[:headless]
+        h1= @item[:title]
+        - if @item[:subtitle]
+            .subtitle= @item[:subtitle]
+        - if @item[:gallery]
+            .subtitle= @item[:published].strftime("(%m/%Y)")
+        - unless @item[:nometa] or @item[:gallery]
+            .meta
+                - if @item[:published]
+                  => @item[:published].strftime("%d.%m.%Y")
+                - else
+                  | unpublished 
+                - if @item[:updated]
+                  ' (last update: #{@item[:updated].strftime("%d.%m.%Y")})
+                - if @item[:tags]
+                  | /
+                  ==< tags_for(@item)
+
+      - if @item[:gallery]
+        .gallerynavbars
+          - for category in gallery_categories_for(@item)
+            .gallerynav
+                .prevlink
+                    a href=(gallery_prev_for(@item, category.first).path) &nbsp;&#x25C0;&nbsp;
+                .numbers
+                    = (category[2]+1).to_s + " / " + category[1].to_s + " in "
+                    a href=("/galerie/#"+ category.first) == category.first
+                .nextlink
+                    a href=(gallery_next_for(@item, category.first).path) &nbsp;&#x25B6;&nbsp;
+                    
+      == yield
+

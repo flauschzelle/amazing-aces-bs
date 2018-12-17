@@ -1,0 +1,92 @@
+#!/usr/bin/env ruby
+
+preprocess do
+    @items.each do |item|
+        if item[:published]
+            item[:published] = DateTime.parse(item[:published].to_s)
+        end
+        if item[:updated]
+            item[:updated] = DateTime.parse(item[:updated].to_s)
+        end
+        if item[:eventdate]
+            item[:eventdate] = DateTime.parse(item[:eventdate].to_s)
+        end
+        if item[:tags]
+            item[:tags] = item[:tags].split(",").map{|t| t.strip}
+        end
+    end
+end
+
+compile "/**/*.scss" do
+    filter :sass, syntax: :scss
+    write item.identifier.without_ext + ".css"
+end
+
+compile "/**/*.coffee" do
+    filter :coffeescript
+    write item.identifier.without_ext + ".js"
+end
+
+compile "/**/*.xml" do
+    filter :erb
+    write item.identifier.without_ext + ".html"
+end
+
+#this creates thumbnails from svg images (except those in the assets dir):
+compile "/**/*.svg", :rep => :thumbnail do
+    filter :thumbnailizesvg, :width => 600
+	if item.identifier =~ '/assets/**/*.svg'
+		write nil
+	else
+    	write item.identifier + "-thumbnail.png"
+	end
+end
+
+#this creates thumbnails from all other images (except those in the assets dir):
+compile "/**/*.{png,jpg,gif}", :rep => :thumbnail do
+    filter :thumbnailize, :width => 600
+	if item.identifier =~ '/assets/**/*.{png,jpg,gif}'
+		write nil
+	else
+    	write item.identifier + "-thumbnail.png"
+	end
+end
+
+#before I added the exclusion of the assets dir, it looked like this:
+#compile "/**/*.{png,jpg,gif,svg}", :rep => :thumbnail do
+#    filter :thumbnailize, :width => 600
+#    write item.identifier + "-thumbnail.png"
+#end
+
+compile "/**/*.md" do
+    filter :erb
+    filter :absolutize_paths
+    filter :kramdown
+    layout "/default.*"
+#    filter :tidy
+    write item.identifier.without_ext + ".html"
+end
+
+compile "/**/*.slim" do
+    filter :slim
+    layout "/default.*"
+#    filter :tidy
+    write item.identifier.without_ext + ".html"
+end
+
+#this creates svg files from the title pages of all pdfs:
+compile "/**/*.pdf", :rep => :titlepage do
+    filter :titlepageize
+    write item.identifier + "-titlepage.svg"
+end
+
+#this creates thumbnail png images for the pdf title pages:
+compile "/**/*.pdf", :rep => :thumbnail do
+    filter :titlepageize
+    filter :thumbnailizesvg, :width => 600
+    write item.identifier + "-titlepage.svg-thumbnail.png"
+end
+
+passthrough "/**/*"
+
+layout "/**/*", :slim

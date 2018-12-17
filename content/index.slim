@@ -1,0 +1,67 @@
+---
+title: Home
+headless: true
+---
+
+#intro
+    img src="/assets/images/logo_text.png" alt="Logo"
+
+h1= "Herzlich willkommen"
+
+
+p
+	| ... im Meisteratelier! 
+	br
+	|Ich bin Schneidermeisterin 
+	strong< Kirstin Rohwer
+	|, und in meinem Atelier in Braunschweig biete ich Schneiderei nach Maß und nach persönlichen Wünschen:
+
+ul
+	li
+        |Maßgeschneiderte 
+		a< href="/larp-gewandung/" LARP-Gewandung
+	li
+    	|Individuelle 
+		a< href="/mode-und-kostueme/" Kostüme und Mode
+		|  für alle Anlässe
+	li
+		|Kleidung nachträglich mit 
+		a< href="/kleider-mit-taschen/" Taschen
+		|  versehen
+	li    
+		|Schnittmuster nach Maß und 
+		a< href="/naehkurse/" Nähkurse
+		|  für kreative Hobbyschneider*innen
+p
+	|Schau dir hier eine Auswahl meiner bisherigen Werke in der 
+	a< href="/galerie/" Galerie
+	|  an, oder lies die Antworten auf die 
+	a< href="/faq/" häufigsten Fragen
+	|.
+
+p
+	|Du hast Interesse an einem maßgefertigten Unikat aus dem 
+	strong< Atelier Sonnenschein
+	|? 
+	a< href="/kontakt/" Vereinbare
+	|  einfach einen Termin und besuche mich im Atelier in Braunschweig oder auf verschiedenen Veranstaltungen.
+
+br
+h1= "Aktuelle Termine"
+br
+
+- events.group_by{|t| 0}.each do |group, event| 
+    == eventbox(event)
+
+br
+h1= "Aktuelle Neuigkeiten"
+br
+
+- newestthings.group_by{|t| 0}.each do |group, newestthing| 
+    == box(newestthing)
+
+/- newestthings.group_by{|t| 0}.sort_by{|y,t| -y}.each do |group, n| 
+/    == box(n)
+
+p
+	a< href="/news/" -> alle Neuigkeiten

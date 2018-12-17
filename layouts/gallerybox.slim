@@ -1,0 +1,19 @@
+.box
+  a href=link_for(@item)
+    img src=thumbnail_for(@item) alt="" title=@item[:imgtitle]
+    .info
+      h2= @item[:title]
+      /- if @item[:subtitle]
+        h3
+          = @item[:subtitle]
+          br
+      - if @item[:published]
+        .gallerymeta
+          /will not be displayed (hidden by CSS) but is used for filter!
+          /= @item[:published].strftime("%d.%m.%Y")
+          /- if @item[:updated] and @item[:published].year != @item[:updated].year
+            | –
+            == @item[:updated].year
+          - if @item[:tags]
+            /|  /
+            ==< tags_for(@item, false)

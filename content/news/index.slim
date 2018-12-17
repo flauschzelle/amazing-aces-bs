@@ -1,0 +1,18 @@
+---
+title: Neuigkeiten
+nometa: true
+headless: true
+---
+
+#intro
+    img src="/assets/images/logo_text.png" alt="Logo"
+
+h1= "Neuigkeiten"
+br
+
+#search
+    input id="filter-search" placeholder="Filtern…"
+    a< href="#" id="filter-clear" ✕
+
+- newsthings.group_by{|t| [t[:published].year, t[:updated] ? t[:updated].year : 0].max}.sort_by{|y,t| -y}.each do |year, newsthings| 
+    == box(newsthings)

@@ -1,0 +1,13 @@
+.box
+  a href=link_for(@item)
+	.eventlink
+	  = @item[:eventdate].strftime("%d.%m.%Y")
+    .info
+      h2= @item[:eventname]
+      - if @item[:eventtype]
+        h3
+          = @item[:eventtype]
+          br
+      - if @item[:eventdetail]
+        .meta
+          = @item[:eventdetail]
