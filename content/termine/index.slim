@@ -1,0 +1,10 @@
+---
+title: Termine
+nometa: true
+headless: true
+menu: Termine
+---
+
+h1 = "Termine"    
+- events.group_by{|t| 0}.each do |group, event| 
+    == eventbox(event)
