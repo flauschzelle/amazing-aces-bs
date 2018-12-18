@@ -13,7 +13,7 @@ filter = (term, updateBox) ->
     if term == ""
         window.history.replaceState("", "", window.originalURL)
     else
-#        if window.originalURL != "http://ateliersonnenschein.de/news"
+#        if window.originalURL != "http://amazing-aces-bs.de/blog"
         window.location.href = window.originalURL+"#"+term
 #        else
         window.history.replaceState("", "", window.originalURL+"#"+term)

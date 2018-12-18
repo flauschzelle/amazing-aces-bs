@@ -4,7 +4,7 @@ nometa: true
 ---
 Bei Fragen erreicht ihr uns am besten per E-mail oder auf Twitter. Auf Facebook könnt ihr an unseren Veranstaltungen teilnehmen.
 
-**E-mail:** <span>m<span title="ihate@spam.com</span>">a</span>il</span>&#64;metakiki<i title="</i>mailto:">.</i>net  
+**E-mail:** <span>k<span title="ihate@spam.com</span>">o</span>ntakt</span>&#64;amazing-aces-bs<i title="</i>mailto:">.</i>de  
 **Twitter:** [@AmazingAcesBS](https://twitter.com/AmazingAcesBS)  
 **Facebook:** [Amazing Aces BS](https://facebook.com/AmazingAcesBS)  
 

@@ -130,7 +130,7 @@ def with_tag tag
 end
 
 def domain
-    "https://ateliersonnenschein.de/"
+    "https://amazing-aces-bs.de/"
 end
 
 def box(items)

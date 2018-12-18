@@ -14,7 +14,7 @@ deploy:
   default:
     kind: rsync
 #commented out the next line for safety until i have a webspace for this site
-#    dst: "metakiki.net:/var/www/virtual/kikidata/html"
+    dst: "amazing-aces-bs.de:/var/www/virtual/acesbs/html"
     options: [
       '--partial',
       '--progress',
