@@ -119,7 +119,7 @@ def thumbnail_for item
     if thumbnail && thumbnail.reps[:thumbnail]
         thumbnail.reps[:thumbnail].path
     else
-        ""
+        "/assets/images/amazing-aces-logo.png-thumbnail.png"
     end
 end
 
@@ -146,15 +146,6 @@ def eventbox(items)
     ret = "<div class=\"boxes\">"
     items.each do |item|
         ret << render("/eventbox.*", {:item => item})
-    end
-    ret << "</div>"
-    ret
-end
-
-def gallerybox(items)
-    ret = "<div class=\"boxes\">"
-    items.each do |item|
-        ret << render("/gallerybox.*", {:item => item})
     end
     ret << "</div>"
     ret
