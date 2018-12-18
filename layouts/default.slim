@@ -4,9 +4,9 @@ html lang=lang_for(@item)
     meta charset="utf-8"
     title
       - if @item.path != "/" and @item[:title]
-        = @item[:title]+" - Atelier Sonnenschein"
+        = @item[:title]+" - Amazing Aces Braunschweig"
       - else
-        | Kostüm- & Modeatelier Sonnenschein
+        | Amazing Aces - Braunschweiger Stammtisch für Menschen im asexuellen Spektrum
 
     meta name="author" content="Kirstin Rohwer"
 
@@ -16,10 +16,10 @@ html lang=lang_for(@item)
     meta name="description" content=abstract_for(@item)
 
     meta name="twitter:card" content="summary_large_image"
-    meta name="twitter:site" content="@LarpSchneiderin"
+    meta name="twitter:site" content="@AmazingAcesBS"
     meta name="twitter:title" content=@item[:title]
     meta name="twitter:description" content=abstract_for(@item)
-    meta name="twitter:creator" content="@LarpSchneiderin"
+    meta name="twitter:creator" content="@AmazingAcesBS"
     meta name="twitter:image" content=domain[0..-2]+thumbnail_for(@item)
 
     meta property="og:title" content=@item[:title]
@@ -37,15 +37,15 @@ html lang=lang_for(@item)
     link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"
     link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"
     link rel="manifest" href="/assets/favicons/site.webmanifest"
-    link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"
+    link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#940b92"
     link rel="shortcut icon" href="/assets/favicons/favicon.ico"
-    meta name="msapplication-TileColor" content="#da532c"
+    meta name="msapplication-TileColor" content="#9f00a7"
     meta name="msapplication-config" content="/assets/favicons/browserconfig.xml"
     meta name="theme-color" content="#ffffff"
-
+    
     link rel="stylesheet" href="/assets/style.css"
 
-    - if ["/news/", "/galerie/"].include? @item.path
+    - if ["/blog/"].include? @item.path
       script src="https://code.jquery.com/jquery-3.1.1.min.js"
       script src="/assets/filter.js"
 
@@ -54,10 +54,10 @@ html lang=lang_for(@item)
    #sidebar 
       #navimg
 		a href="/"
-          img src="/assets/images/profilbild_transparent.svg" alt="Logo"
+          img src="/assets/images/amazing-aces-logo.svg" alt="Logo"
 		<br>
 	  #nav
-		- menuitems = [["larp-gewandung", "mode-und-kostueme"],["naehkurse", "kleider-mit-taschen"],["galerie", "faq", "kontakt"]]
+		- menuitems = [["das-asexuelle-spektrum"],["ueber-uns"],["termine"],["blog"],["kontakt"]]
 		- for group in menuitems
 			ul
 				- for menustring in group
@@ -70,9 +70,7 @@ html lang=lang_for(@item)
         h1= @item[:title]
         - if @item[:subtitle]
             .subtitle= @item[:subtitle]
-        - if @item[:gallery]
-            .subtitle= @item[:published].strftime("(%m/%Y)")
-        - unless @item[:nometa] or @item[:gallery]
+        - unless @item[:nometa]
             .meta
                 - if @item[:published]
                   => @item[:published].strftime("%d.%m.%Y")
@@ -84,17 +82,6 @@ html lang=lang_for(@item)
                   | /
                   ==< tags_for(@item)
 
-      - if @item[:gallery]
-        .gallerynavbars
-          - for category in gallery_categories_for(@item)
-            .gallerynav
-                .prevlink
-                    a href=(gallery_prev_for(@item, category.first).path) &nbsp;&#x25C0;&nbsp;
-                .numbers
-                    = (category[2]+1).to_s + " / " + category[1].to_s + " in "
-                    a href=("/galerie/#"+ category.first) == category.first
-                .nextlink
-                    a href=(gallery_next_for(@item, category.first).path) &nbsp;&#x25B6;&nbsp;
                     
       == yield
 

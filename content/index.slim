@@ -3,59 +3,45 @@ title: Home
 headless: true
 ---
 
-#intro
-    img src="/assets/images/logo_text.png" alt="Logo"
+#logotitle 
+    | Amazing Aces
+    br
+#logosubtitle
+    | Braunschweiger Stammtisch 
+    br
+    | für Menschen im asexuellen Spektrum
 
-h1= "Herzlich willkommen"
-
-
-p
-	| ... im Meisteratelier! 
-	br
-	|Ich bin Schneidermeisterin 
-	strong< Kirstin Rohwer
-	|, und in meinem Atelier in Braunschweig biete ich Schneiderei nach Maß und nach persönlichen Wünschen:
-
-ul
-	li
-        |Maßgeschneiderte 
-		a< href="/larp-gewandung/" LARP-Gewandung
-	li
-    	|Individuelle 
-		a< href="/mode-und-kostueme/" Kostüme und Mode
-		|  für alle Anlässe
-	li
-		|Kleidung nachträglich mit 
-		a< href="/kleider-mit-taschen/" Taschen
-		|  versehen
-	li    
-		|Schnittmuster nach Maß und 
-		a< href="/naehkurse/" Nähkurse
-		|  für kreative Hobbyschneider*innen
-p
-	|Schau dir hier eine Auswahl meiner bisherigen Werke in der 
-	a< href="/galerie/" Galerie
-	|  an, oder lies die Antworten auf die 
-	a< href="/faq/" häufigsten Fragen
-	|.
+h2= "Herzlich willkommen!"
 
 p
-	|Du hast Interesse an einem maßgefertigten Unikat aus dem 
-	strong< Atelier Sonnenschein
-	|? 
-	a< href="/kontakt/" Vereinbare
-	|  einfach einen Termin und besuche mich im Atelier in Braunschweig oder auf verschiedenen Veranstaltungen.
+	| Hier findest du 
+	a< href="/ueber-uns/" Infos über unser monatliches Treffen 
+	| und Neuigkeiten aus der asexuellen Community in Braunschweig und Umgebung.
 
-br
-h1= "Aktuelle Termine"
-br
+p
+	|Wenn du wissen möchtest, um was es hier eigentlich geht, dann lies dir unsere Erklärung über das 
+	a< href="/das-asexuelle-spektrum/" asexuelle Spektrum
+	|  durch. 
+	
+P
+	|Wenn du gerne zu einem Stammtisch kommen möchtest, findest du hier die nächsten 
+	a< href= "/termine/" Termine
+	| . 
+	
+p	
+	|Wenn du per e-mail an die Termine erinnert werden möchtest, oder falls du irgendwelche Fragen hast, kannst du uns gerne 
+	a< href="/kontakt/" kontaktieren
+	| .
+
+h2= "Die nächsten Termine"
 
 - events.group_by{|t| 0}.each do |group, event| 
     == eventbox(event)
+    
+p
+	a< href="/termine/" -> alle Termine
 
-br
-h1= "Aktuelle Neuigkeiten"
-br
+h2= "Blog"
 
 - newestthings.group_by{|t| 0}.each do |group, newestthing| 
     == box(newestthing)
@@ -64,4 +50,4 @@ br
 /    == box(n)
 
 p
-	a< href="/news/" -> alle Neuigkeiten
+	a< href="/blog/" -> alle Beiträge

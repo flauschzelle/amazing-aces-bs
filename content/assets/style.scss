@@ -1,35 +1,8 @@
 $spacing: 1.5em;
 $offblack: #3a4145;
 $grey: #222;
-$linkred: #aa473a;
-$beige: #fffdf0;
+$linkcolor: #940b92;
 $tagcolor: #555;
-
-@font-face {
-    font-family: "KaushanScript";
-    src: url("/assets/fonts/KaushanScript-Regular.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "UbuntuMono";
-    src: url("/assets/fonts/UbuntuMono-Regular.ttf") format("truetype");
-}
-@font-face {
-    font-family: "UbuntuMono";
-    src: url("/assets/fonts/UbuntuMono-Italic.ttf") format("truetype");
-	font-style: italic;
-}
-@font-face {
-    font-family: "UbuntuMono";
-    src: url("/assets/fonts/UbuntuMono-Bold.ttf") format("truetype");
-	font-weight: bold;
-}
-@font-face {
-    font-family: "UbuntuMono";
-    src: url("/assets/fonts/UbuntuMono-BoldItalic.ttf") format("truetype");
-	font-weight: bold;
-	font-style: italic;
-}
 
 @font-face {
     font-family: "Noticia";
@@ -81,7 +54,7 @@ $tagcolor: #555;
 
 a {
     text-decoration: none;
-    color: $linkred;
+    color: $linkcolor;
     transition: all 0.2s ease;
 }
 
@@ -98,12 +71,7 @@ body {
     line-height: 1.6em;
     overflow-y: scroll;
     color: $offblack;
-	background: $beige;
-}
-
-code {
-    font-family: "UbuntuMono", monospace;
-    font-size: 1.3em;
+	background: white;
 }
 
 #sidebar{
@@ -111,19 +79,19 @@ code {
     width: 12em;
 }
 #navimg{
-	background: linear-gradient(to right, #fffdcd, #880000);
-	width: 6em;
-	height: 6em;
+//	background: linear-gradient(to right, #ffffff, $linkcolor);
+	width: 10em;
+//	height: 6em;
 	padding: 1em;
 	position: fixed;
 	margin-top: 2em;
     margin-right: auto;
-    margin-left: 5em;
+    margin-left: 1em;
     img {
 		text-align: center;
 		margin-right: auto;
 		margin-left: auto;
-        height: 6em;
+        height: 9em;
         transition: transform 0.4s ease-in-out;
     }
     img:hover {
@@ -132,8 +100,8 @@ code {
 }
 #nav {
 	padding: 1em;
-//	background: linear-gradient(to right, #fffdcd, #880000);
-    margin-top: 10em;
+	width: 12em;
+    margin-top: 12em;
 	margin-bottom: 2em;
     position: fixed;
     text-align: right;
@@ -156,21 +124,19 @@ code {
             color: inherit;
         }
         a:hover {
-            background: linear-gradient(to right, #fffdcd, #880000);
-//			color: $linkred;
+            background: linear-gradient(to right, #ffffff, $linkcolor);
+//			color: $linkcolor;
 			text-decoration: none;
         }
     }
     li.current a {
-		color: $linkred;
+		color: $linkcolor;
 		background: none;
 //		background: linear-gradient(to right, #fffdcd, #880000);
     }
 }
 
 #content {
-//	background: linear-gradient(to right, #fffde1, #d49080);
-//	background: $beige;
 	padding-top: 0em;
 	padding-bottom: 1em;
 	padding-right: 1em;
@@ -322,60 +288,19 @@ code {
             color: $offblack;
         }
     }
-    .gallerynavbars {
-        margin-top: 1em;
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        :last-child {
-//            margin-right: auto;
-        }
-        .gallerynav {
-//            width: 100%;
-//            background: white;
-            margin-bottom: 0.4em;
-            margin-top: 0em;
-            margin-left: 0.5em;
-            margin-right: 0.5em;
-            padding: 0.2em;
-            display: flex;
-            justify-content: space-between;
-            .prevlink {
-                font-size: 1.5em;
-            }
-            .prevlink a:hover {
-                text-decoration: none;
-            }
-            .numbers {
-                margin-left: 0.2em;
-                margin-right:0.2em;
-                text-align: center;
-            }
-            .numbers a {
-                
-            }
-            .nextlink {
-                font-size: 1.5em;
-            }
-            .nextlink a:hover {
-                text-decoration: none;
-            }
-        }
+    #logotitle {
+        font-size: 4em;
+        font-weight: bold;
+        letter-spacing: -0.02em;
+        line-height: 1.3em;
+        text-align: left;
+        color: $linkcolor;
     }
-    #intro {
-        margin-bottom: 2em;
-        line-height: 1.6em;
-
-        .filter a {
-			text-decoration: underline;
-//            border-bottom: 1px dashed;
-        }
-
-        img {
-            width: 100%;
-            padding-bottom: 1em;
-        }
+    #logosubtitle {
+        font-size: 1.6em;
+        line-height: 1.2em;
+        text-align: left;
+        color: $linkcolor;
     }
     #search {
       clear: both;
@@ -429,7 +354,7 @@ code {
 			height: 8em;
 			padding-top: 0.5em;
 			text-align: center;
-			background: linear-gradient(to right, #fffdcd, #880000);
+			background: linear-gradient(to right, #ffffff, $linkcolor);
 			font-size: 1.4em;
             font-family: "OpenSans", sans-serif;
 			font-weight: bold;
@@ -445,7 +370,7 @@ code {
             right: 0;
             padding: 0.5em;
             box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.4);
-            background: $beige;
+            background: #ffffff;
             h2 {
                 font-size: 1.0em;
                 font-family: "OpenSans", sans-serif;

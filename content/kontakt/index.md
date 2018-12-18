@@ -2,30 +2,22 @@
 title: Kontakt
 nometa: true
 ---
+Bei Fragen erreicht ihr uns am besten per E-mail oder auf Twitter. Auf Facebook könnt ihr an unseren Veranstaltungen teilnehmen.
 
+**E-mail:** <span>m<span title="ihate@spam.com</span>">a</span>il</span>&#64;metakiki<i title="</i>mailto:">.</i>net  
+**Twitter:** [@AmazingAcesBS](https://twitter.com/AmazingAcesBS)  
+**Facebook:** [Amazing Aces BS](https://facebook.com/AmazingAcesBS)  
 
-**E-mail:** <span>m<span title="ihate@spam.com</span>">a</span>il</span>&#64;ateliersonnenschein<i title="</i>mailto:">.</i>de  
-**Telefon:** +49 175 2557727 (schreibt mir aber bitte lieber eine e-mail)  
-**Twitter:** [@LarpSchneiderin](https://twitter.com/LarpSchneiderin)  
-**Facebook:** [Atelier Sonnenschein](https://facebook.com/AtelierSonnenschein)  
+## Impressum
 
-**Postanschrift:**
+**Postanschrift der Verantwortlichen für diese Website:**
 
 > Kirstin Rohwer  
-> Atelier Sonnenschein  
-> Cyriaksring 10a, Block B  
+> Chemnitzstr. 7  
 > 38118 Braunschweig  
-
-**Geschäftszeiten:** nur nach Vereinbarung
-
-**Zuständige Kammer:**
-
-> [Handwerkskammer Braunschweig-Lüneburg-Stade](https://www.hwk-bls.de)  
-> Burgplatz 2 + 2a  
-> 38100 Braunschweig
 
 ## Datenschutz
 
-Ich erhebe auf dieser Website keine personenbezogenen Daten.  
+Wir erheben auf dieser Website keine personenbezogenen Daten.  
 
-Alle personenbezogenen Daten (z.B. Namen, Adressen, Körpermaße), die mir im Rahmen von Auftragsanfragen per e-mail oder persönlich mitgeteilt werden, werden nur zum Zweck der Angebots- und Auftragsbearbeitung gespeichert und nicht an Dritte weitergegeben. Du hast jederzeit das Recht, nachzufragen welche Daten ich über dich gespeichert habe und ggf. die Löschung zu verlangen, falls die Daten nicht mehr zum Zweck der Auftragsbearbeitung benötigt werden oder aus gesetzlichen Gründen aufbewahrt werden müssen.
+Wenn du uns bittest, dich per E-mail an die Termine zu erinnern, dann speichern wir deine E-mail-Adresse. Sie wird nicht an Dritte weitergegeben, und du kannst jederzeit darum bitten, dass wir dich wieder aus unserer E-mail-Liste löschen.
