@@ -2,7 +2,7 @@ include Nanoc::Helpers::Rendering
 include Nanoc::Helpers::ChildParent
 
 def events
-    blk = -> { newest_first(@items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd}.sort_by{|i| i[:eventdate].jd}) }
+    blk = -> { @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd}.sort_by{|i| i[:eventdate].jd} }
     if @items.frozen?
         @events ||= blk.call
     else
@@ -11,7 +11,7 @@ def events
 end
 
 def nextevents
-    blk = -> { newest_first(@items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd}.sort_by{|i| i[:eventdate].jd}).take(3) }
+    blk = -> { @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd}.sort_by{|i| i[:eventdate].jd}.take(3) }
     if @items.frozen?
         @nextevents ||= blk.call
     else
