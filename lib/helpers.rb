@@ -10,10 +10,10 @@ def events
     end
 end
 
-def gallerythings
-    blk = -> { newest_first(@items.find_all("/**/*").select{|i| i[:gallery]}) }
+def nextevents
+    blk = -> { newest_first(@items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd}.sort_by{|i| i[:eventdate].jd}).take(3) }
     if @items.frozen?
-        @gallerythings ||= blk.call
+        @nextevents ||= blk.call
     else
         blk.call
     end
@@ -57,39 +57,6 @@ end
 
 def tags
     calculate_tags
-end
-    
-#datastructure for categories of gallery items
-def gallery_items_for tag
-    gallerythings.select do |item|
-        item[:tags] and item[:tags].include? tag
-    end
-end
-    
-#look up in which gallery categories this item is, and at which place
-#only use this in gallery pages!
-def gallery_categories_for item
-    item[:tags].map do |tag|
-        [tag, gallery_items_for(tag).size, gallery_items_for(tag).index(item)]
-    end
-end
-
-#gives the next gallery item in the specified category
-def gallery_next_for item, tag
-    gallery_next_nr = gallery_items_for(tag).index(item)+1
-    if gallery_next_nr == gallery_items_for(tag).size
-        gallery_next_nr = 0
-    end
-    gallery_items_for(tag)[gallery_next_nr]
-end
-
-#gives the previous gallery item in the specified category
-def gallery_prev_for item, tag
-    gallery_prev_nr = gallery_items_for(tag).index(item)-1
-    if gallery_prev_nr == -1
-        gallery_prev_nr = gallery_items_for(tag).size-1
-    end
-    gallery_items_for(tag)[gallery_prev_nr]
 end
 
 def menutext_for item
