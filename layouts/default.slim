@@ -84,4 +84,33 @@ html lang=lang_for(@item)
 
                     
       == yield
-
+      
+      - if @item[:eventdate]
+        hr
+        h2 Fragen?
+        p
+          | Wenn du Fragen zu dieser Veranstaltung hast, kannst du uns gerne 
+          a href="/kontakt/" kontaktieren
+          | . 
+          
+      - if @item[:facebook] or @item[:twitter]
+        h2 Weitersagen!
+        - if @item[:facebook] and @item[:twitter]
+            p
+              | An dieser Veranstaltung kannst du auch auf 
+              a href=(@item[:facebook]) Facebook 
+              | teilnehmen, und wir freuen uns, wenn du sie dort teilen magst. Außerdem haben wir einen Hinweis dazu auf 
+              a href=(@item[:twitter]) Twitter 
+              | gepostet, den du auch gerne verbreiten darfst.
+          
+        - elsif @item[:facebook]
+            p
+              | An dieser Veranstaltung kannst du auch auf 
+              a href=(@item[:facebook]) Facebook 
+              | teilnehmen, und wir freuen uns, wenn du sie dort teilen magst.
+              
+        - elsif @item[:twitter]
+            p
+              | Zu dieser Veranstaltung haben wir einen Hinweis auf 
+              a href=(@item[:twitter]) Twitter 
+              | gepostet, den du gerne verbreiten darfst.
