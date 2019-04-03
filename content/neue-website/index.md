@@ -1,5 +1,6 @@
 ---
 title: "Wir haben eine neue Website!"
+subtitle: "Unser neues Zuhause in den Weiten des Internets"
 tags: website
 published: 2018-12-18
 news: true

@@ -1,5 +1,6 @@
 ---
 title: "Unser Flyer zum Download"
+subtitle: zum Selbst-Ausdrucken und Verteilen
 tags: website, flyer
 published: 2018-12-18
 news: true

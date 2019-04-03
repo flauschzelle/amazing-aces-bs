@@ -1,5 +1,6 @@
 ---
 title: "Amazing Aces Stammtisch im März 2019"
+subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
 published: 2018-12-18
 news: false
@@ -9,7 +10,7 @@ eventname: "Ace-Stammtisch März 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
 facebook: https://www.facebook.com/events/292385468078166/
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1096848801002897409
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum

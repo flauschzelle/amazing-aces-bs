@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+subtitle: "...so erreicht ihr uns"
 nometa: true
 ---
 Bei Fragen erreicht ihr uns am besten per E-mail oder auf Twitter. Auf Facebook könnt ihr an unseren Veranstaltungen teilnehmen.

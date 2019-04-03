@@ -1,5 +1,6 @@
 ---
 title: Das asexuelle Spektrum
+subtitle: "Asexu... was? Eine kurze Erklärung, worum es hier geht"
 nometa: true
 menu: Asexu... was?
 ---

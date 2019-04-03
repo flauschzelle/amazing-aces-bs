@@ -70,9 +70,9 @@ html lang=lang_for(@item)
    #content
       - unless @item[:headless]
         h1= @item[:title]
-        - if @item[:subtitle]
-            .subtitle= @item[:subtitle]
         - unless @item[:nometa]
+            - if @item[:subtitle]
+                .subtitle= @item[:subtitle]
             .meta
                 - if @item[:published]
                   => @item[:published].strftime("%d.%m.%Y")
@@ -100,19 +100,19 @@ html lang=lang_for(@item)
         - if @item[:facebook] and @item[:twitter]
             p
               | An dieser Veranstaltung kannst du auch auf 
-              a href=(@item[:facebook]) Facebook 
-              | teilnehmen, und wir freuen uns, wenn du sie dort teilen magst. Außerdem haben wir einen Hinweis dazu auf 
-              a href=(@item[:twitter]) Twitter 
-              | gepostet, den du auch gerne verbreiten darfst.
+              a href=(@item[:facebook]) Facebook
+              |  teilnehmen, und wir freuen uns, wenn du sie dort teilen magst. Außerdem haben wir einen Hinweis dazu auf 
+              a href=(@item[:twitter]) Twitter
+              |  gepostet, den du auch gerne verbreiten darfst.
           
         - elsif @item[:facebook]
             p
               | An dieser Veranstaltung kannst du auch auf 
-              a href=(@item[:facebook]) Facebook 
-              | teilnehmen, und wir freuen uns, wenn du sie dort teilen magst.
+              a href=(@item[:facebook]) Facebook
+              |  teilnehmen, und wir freuen uns, wenn du sie dort teilen magst.
               
         - elsif @item[:twitter]
             p
               | Zu dieser Veranstaltung haben wir einen Hinweis auf 
-              a href=(@item[:twitter]) Twitter 
-              | gepostet, den du gerne verbreiten darfst.
+              a href=(@item[:twitter]) Twitter
+              |  gepostet, den du gerne verbreiten darfst.

@@ -1,5 +1,6 @@
 ---
 title: "Amazing Aces Stammtisch im Mai 2019"
+subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
 published: 2018-12-18
 news: false

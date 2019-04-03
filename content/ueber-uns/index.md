@@ -1,5 +1,6 @@
 ---
 title: Über uns
+subtitle: Amazing Aces Brauschweig
 nometa: true
 menu: Über uns
 ---
