@@ -34,7 +34,7 @@ Das ist so allgemein schwierig zu beantworten. In erster Linie ist der Stammtisc
 
 ## Wo findet das Treffen statt?
 
-Wir treffen uns im Raum der [Frauenbibliothek](https://www.frauenbib-bs.de/) an der TU Braunschweig, Zimmerstraße 24D. Der Raum ist im ersten Stock (es gibt leider keinen Aufzug). Auch wenn der Name es vielleicht nicht vermuten lässt, sind dort Menschen aller Geschlechter willkommen.
+Wir treffen uns im Raum der [Frauenbibliothek](https://www.frauenbib-bs.de/) an der TU Braunschweig, Zimmerstraße 24D. Der Raum ist im ersten Stock (es gibt leider keinen Aufzug). Auch wenn der Name es vielleicht nicht vermuten lässt, sind dort alle Menschen willkommen -  unabhängig von Geschlecht und Alter, egal ob Studi oder nicht.
 
 Dort gibt es gemütliche Sitzgelegenheiten und wir sind ab 20 Uhr ungestört. Vorher hat die Bibliothek geöffnet - wenn ihr schon früher da sein möchtet, könnt ihr euch also schonmal umschauen und es euch gemütlich machen.
 
