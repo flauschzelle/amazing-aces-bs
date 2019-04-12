@@ -10,7 +10,7 @@ eventname: "Ace-Stammtisch Mai 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
 facebook: https://www.facebook.com/events/587416581684541/
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1116451653341851651
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
