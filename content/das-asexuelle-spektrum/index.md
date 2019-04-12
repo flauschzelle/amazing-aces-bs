@@ -120,7 +120,7 @@ Das bekannteste Symbol ist wohl die **asexuelle Flagge** und ihre Farben: Die sc
 
 ![Bild: asexuelle Flagge](asexual-flag.png)
 
-Ein weiteres, eher unauffälliges Symbol ist ein **schwarzer Ring am rechten Mittelfinger**. Her ist aber Vorsicht angesagt, denn es gibt eine Verwechslungsgefahr - auch die Swinger-Szene verwendet manchmal schwarze Fingerringe als Symbol, wenn auch meistens an anderen Fingern.
+Ein weiteres, eher unauffälliges Symbol ist ein **schwarzer Ring am rechten Mittelfinger**. Hier ist aber Vorsicht angesagt, denn es gibt eine Verwechslungsgefahr - auch die Swinger-Szene verwendet manchmal schwarze Fingerringe als Symbol, wenn auch meistens an anderen Fingern.
 
 ![Bild: Ace-Ring](asexual-ring.jpg)
 
