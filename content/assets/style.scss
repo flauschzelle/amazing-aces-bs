@@ -223,6 +223,20 @@ body {
 		display: inline;
 		padding: 0.1em;
 	}
+	img[alt=Foto_Hochformat_float_right] { 
+		width: 30%;
+//		display: inline;
+		float: right;
+		padding: 0.8em;
+		padding-top: 0.1em;
+	}
+	img[alt=Foto_Hochformat_float_left] { 
+		width: 30%;
+//		display: inline;
+		float: left;
+		padding: 0.8em;
+		padding-top: 0.1em;
+	}
     iframe {
         margin: 1em 0;
 		max-width: 100%;
@@ -488,6 +502,18 @@ body {
 			display: block;
 			padding: 0.1em;
 		}
+	img[alt=Foto_Hochformat_float_right] { 
+		width: 90%;
+		display: inline;
+		float: none;
+		padding: 0.1em;
+	}
+	img[alt=Foto_Hochformat_float_left] { 
+		width: 90%;
+		display: inline;
+		float: none;
+		padding: 0.1em;
+	}
 	}
 }
 

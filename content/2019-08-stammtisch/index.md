@@ -17,6 +17,10 @@ twitter: false
 
 ### Do, 08.08.2019 um 20:00 Uhr in der [Frauenbibliothek](https://www.frauenbib-bs.de)
 
+![Foto_Hochformat_float_right](solo-logo-hoch-rgb.jpg)
+
+*Dieser Termin ist gleichzeitig ein regulärer Stammtisch und eine von [drei Veranstaltungen](/sommerloch-2019/), mit denen wir uns am [Sommerlochfestival 2019](https://csd-bs.de/) beteiligen. Wir freuen uns auf viele interessierte Besucher\*innen aus dem asexuellen Spektrum!*
+
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
 Dann komm vorbei und lasst uns eine große Community werden!
