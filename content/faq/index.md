@@ -3,6 +3,7 @@ title: Häufig gestellte Fragen
 subtitle: Amazing Aces Brauschweig
 nometa: true
 menu: Häufige Fragen
+thumbnail: ../assets/images/amazing-aces-logo.png
 ---
 <a name="top"></a>
 
@@ -23,7 +24,7 @@ menu: Häufige Fragen
 
 ##<a name="werseidihr"></a>Wer seid ihr?
 
-Wir sind eine Community für Menschen in Braunschweig und Umgebung, die sich im [asexuellen Spektrum](/das-asexuelle-spektrum/) identifizieren. Wer selbst im Ace-Spektrum ist, kann zu unserem Stammtisch kommen. Und wer sich über das asexuelle Spektrum informieren möchte, findet dazu Infos auf unserer website.
+Wir sind eine Community für Menschen in Braunschweig und Umgebung, die sich im [asexuellen Spektrum](/das-asexuelle-spektrum/) identifizieren. Wer selbst im Ace-Spektrum ist (oder vermutet, vielleicht im Ace-Spektrum zu sein), kann zu unserem Stammtisch kommen. Und wer sich über das asexuelle Spektrum informieren möchte, findet dazu Infos auf unserer Website.
 
 ([nach oben](#top))
 
