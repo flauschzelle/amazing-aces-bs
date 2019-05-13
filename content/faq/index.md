@@ -12,6 +12,7 @@ thumbnail: ../assets/images/amazing-aces-logo.png
 - [Wer organisiert das?](#orga)
 - [Wieviele Leute seid ihr?](#wieviele)
 - [Sind immer die gleichen Leute da?](#diegleichenleute)
+- [Wo kann ich euch vorher online kennenlernen oder mich mit anderen Leuten absprechen, die auch dabei sein werden?](#socialmedia)
 - [Was passiert bei so einem Stammtisch?](#waspassiert)
 - [Redet ihr nur über Asexualität?](#thema)
 - [Was macht ihr sonst noch, außer Reden?](#wassonst)
@@ -62,6 +63,17 @@ Beim Stammtisch sind wir bisher (Stand: Frühling 2019) oft eher eine kleine Gru
 ##<a name="diegleichenleute"></a>Sind immer die gleichen Leute da?
 
 Normalerweise ist immer mindestens eine von uns Organisatorinnen da, meistens beide - ansonsten gibt es ein paar Menschen, die oft da sind, aber nicht jedes Mal. Und einige, die eher selten da sind, oder auch nur einmal da waren. Wir freuen uns immer über neue Teilnehmer*innen.
+
+([nach oben](#top))
+
+##<a name="socialmedia"></a>Wo kann ich euch vorher online kennenlernen oder mich mit anderen Leuten absprechen, die auch dabei sein werden?
+
+Da gibt es mehrere Möglichkeiten: 
+
+- Zu jedem Stammtisch-Termin erstellen wir auch eine Veranstaltung auf [Facebook](https://facebook.com/AmazingAcesBS). Dort kannst du dich als Teilnehmer\*in oder als Interessiert eintragen und mit anderen Teilnehmer\*innen interagieren. Es sind aber nicht alle Leute, die zu unserem Stammtisch kommen, auch bei Facebook aktiv.
+- Du kannst uns auf [Twitter](https://twitter.com/AmazingAcesBS) folgen. Auch da veröffentlichen wir zu jedem Termin einen Ankündigungstweet und du kannst dort kommentieren oder uns in deinem Tweet erwähnen, um andere Teilnehmer\*innen zu finden.
+- Wenn du eine konkrete Frage hast, kannst du uns Organisatorinnen auch eine [E-mail](/kontakt/) schreiben - wir können die Frage ggf. auch per E-mail an die Leute weiterleiten, die unsere Termin-Erinnerungen und Nachrichten abonniert haben.
+- Wir denken gerade darüber nach, eine Plattform (oder auch mehrere) einzurichten, auf der sich alle Teilnehmer\*innen und Interessierten online austauschen können. Das könnte z.B. eine Mailingliste sein, oder eine Gruppe in einem Messenger wie Signal, Whatsapp oder Telegram. Wenn ihr gerne bei einem davon mit dabei sein möchtet, [sagt uns Bescheid](/kontakt/)!
 
 ([nach oben](#top))
 
