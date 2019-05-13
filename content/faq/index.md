@@ -45,10 +45,10 @@ Wenn ihr Ideen habt, könnt ihr die auch gerne einbringen, wir bieten euch nur d
 **Kirstin:** *Ich wurde 1987 geboren und verstehe mich seit 2015 als asexuell und bi-/panromantisch. Außerdem lebe ich polyamor. Ich bin selbständig als Schneidermeisterin und studiere Informatik an der TU Braunschweig.*  
 *Ich habe die Amazing Aces mitgegründet, weil mir die Sichtbarkeit von Asexualität wichtig ist (hätte ich mehr darüber gewusst, wäre mein Coming-out sicherlich früher und einfacher gewesen). Außerdem möchte ich eine Community schaffen, in der wir Aces uns nicht als Außenseiter\*innen fühlen müssen und uns mit unseren Erfahrungen gegenseitig unterstützen können.*
 
-![Foto_Hochformat_float_left](lena.png)
+![Foto_Hochformat_float_left](lena.jpg) 
 
-**Lena:** *Ich wurde 1984 geboren und ...blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla*  
-*Ich habe die Amazing Aces mitgegründet, weil... blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla blablablabla*
+**Lena:** *Ich wurde 1984 geboren und bin lesbisch, trans, polyamor und im asexuellen Spektrum. Wo ich mich dort genau einordne, hat sich schon ein paar mal geändert und ist auch jetzt noch im Fluss. Ich bin Software-Entwicklerin und mache hier und da ein bisschen queeren Aktivismus im kleinen Stil.*  
+*Ich habe die Amazing Aces mitgegründet, weil ich in anderen Kontexten bereits erlebt habe, wie wertvoll es sein kann, sich mit Menschen in einer ähnlichen Lebenssituation auszutauschen. Dabei habe ich einen deutlich kleineren Anteil an der Organisation als Kirstin.*
 
 ([nach oben](#top))
 
