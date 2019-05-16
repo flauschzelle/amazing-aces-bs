@@ -4,6 +4,7 @@ subtitle: "Helft mit, Ace-Stammtische zu verbessern!"
 tags: umfrage
 published: 2019-05-12
 news: true
+thumbnail: ../assets/images/amazing-aces-logo.png
 ---
 
 ## Ihr seid gefragt: wie wünscht ihr euch eure lokale Community?
@@ -15,3 +16,5 @@ Wir werden die Ergebnisse auswerten, um unseren Stammtisch zu einem besseren Erl
 **[➔ Hier geht's zur Umfrage!](https://forms.gle/r2VCkNed1XMfnoBLA)**
 
 Wir freuen uns, wenn ihr den Link zur Umfrage weiter verbreitet, damit wir möglichst viele Antworten bekommen :)
+
+Dazu könnt ihr u.a. auch [diese Flyer](umfrageflyer_4x.pdf) (PDF, 4 Stück zum auseinanderschneiden auf einer A4-Seite) runterladen, ausdrucken und z.B. in eurem queeren Zentrum auslegen oder wo auch immer ihr vermutet, dass andere Aces sie finden :)
