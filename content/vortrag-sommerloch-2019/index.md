@@ -8,7 +8,7 @@ nometa: true
 eventdate: 2019-08-07
 eventname: "Vortrag: Asexualität"
 eventtype: "im Rahmen des Sommerlochfestivals"
-eventdetail: "20:00 Uhr im Onkel Emma"
+eventdetail: "19:00 Uhr im Onkel Emma"
 facebook: false
 twitter: false
 thumbnail: solo-logo-hoch-rgb.jpg
@@ -16,7 +16,7 @@ thumbnail: solo-logo-hoch-rgb.jpg
 
 ## Vortrag von Kirstin Rohwer im Rahmen des Sommerlochfestivals 2019
 
-### Mi, 07.08.2019 um 20:00 Uhr im [Onkel Emma](https://onkel-emma.org/)
+### Mi, 07.08.2019 um 19:00 Uhr im [Onkel Emma](https://onkel-emma.org/)
 
 *Dies ist eine von [drei Veranstaltungen](/sommerloch-2019/), mit denen wir uns am [Sommerlochfestival 2019](https://csd-bs.de/) beteiligen. Wir freuen uns auf viele neugierige Zuhörer\*innen. Der folgende Text ist auch im Programmheft des Sommerlochfestivals zu finden:*
 
