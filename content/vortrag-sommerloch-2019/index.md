@@ -9,7 +9,7 @@ eventdate: 2019-08-07
 eventname: "Vortrag: Asexualität"
 eventtype: "im Rahmen des Sommerlochfestivals"
 eventdetail: "19:00 Uhr im Onkel Emma"
-facebook: false
+facebook: https://www.facebook.com/events/301934737398850/
 twitter: false
 thumbnail: solo-logo-hoch-rgb.jpg
 ---
