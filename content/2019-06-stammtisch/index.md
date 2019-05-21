@@ -10,7 +10,7 @@ eventname: "Ace-Stammtisch Juni 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
 facebook: https://www.facebook.com/events/327140931215059/
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1127253790686621697
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
