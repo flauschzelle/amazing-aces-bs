@@ -155,6 +155,9 @@ body {
 //        -ms-hyphens: auto;
 //        text-align: justify;
     }
+    p.up {
+		text-align: right;
+	}
     p, ul, ol, pre, hr, dl {
         margin-bottom: 1em;
 		margin-top: 1em;

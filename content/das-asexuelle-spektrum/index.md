@@ -4,6 +4,7 @@ subtitle: "Asexu... was? Eine Erklärung, worum es hier geht"
 nometa: true
 menu: Asexu... was?
 ---
+<a name="top"></a>
 
 ##Kurz erklärt: asexuell - Was bedeutet das?
 
@@ -38,6 +39,8 @@ Wo es also *"nur das eine"*, *"nur das andere"*, und *"sowohl als auch"* gibt - 
 
 Asexualität ist dann die vierte Kategorie in dieser Betrachtung von sexueller Orientierung - wir fühlen uns eben weder vom eigenen noch von anderen Geschlechtern sexuell angezogen.
 
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##<a name="anziehung"></a>Verschiedene Arten von Anziehung
 
 Wer aber etwas genauer hinguckt, stellt fest, dass Anziehung (und damit auch Orientierung z.B. zu einem Geschlecht) nicht nur sexuell sein kann. Bei vielen Menschen treten die verschiedenen Ebenen der Anziehung meistens gemeinsam auf, deswegen ist die Unterscheidung davon noch nicht sehr weit bekannt.
@@ -59,6 +62,8 @@ Genau genommen können auch andere Sinneswahrnehmungen damit gemeint sein, z.B. 
 Asexuelle Menschen benennen oft auch zusätzlich ihre romantische Orientierung, z.B. aromantisch, hetero-romantisch, homoromantisch oder bi-/panromantisch.  
 Für alle weiteren Ebenen der Anziehung geht das theoretisch genauso, wird aber eher selten verwendet.
 
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##<a name="spektrum"></a>Das asexuelle Spektrum
 
 Wie immer lässt sich die Realität nicht so genau in zwei gegenteilige Schubladen einsortieren - zwischen **asexuell** (d.h. gar keine sexuelle Anziehung) und **allosexuell** (d.h. *"normal"*/üblich viel sexuelle Anziehung) gibt es auch noch einen mittleren Bereich, eine Grauzone dazwischen. Daher spricht man auch vom **asexuellen Spektrum**. 
@@ -79,6 +84,8 @@ Außerdem gibt es auch ein Spektrum davon, welches Verhältnis asexuelle Mensche
 
 **sex-favorable:** Sexuelle Handlungen gerne mögen und genießen können.
 
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##<a name="abgrenzung"></a>Was Asexualität NICHT ist
 
 Sexuelle Orientierung ist **kein körperlicher Trieb**: manche asexuellen Menschen haben eine Libido (d.h. körperlicher Drang nach sexueller Befriedigung), die aber nicht auf bestimmte Personen gerichtet ist. Sie können dann z.B. sich selbst befriedigen oder Sex mit einer anderen Person haben, ohne diese sexuell attraktiv zu finden.
@@ -90,6 +97,8 @@ Sexuelle Orientierung ist **keine Handlung**: manche asexuellen Menschen haben S
 Sexuelle Orientierung ist **keine Meinung**: der Begriff *sex-positiv* bedeutet, dass man es grundsätzlich gut findet, wenn alle Menschen jeweils so viel Sex haben wie sie mögen (das kann auch *gar keinen* heißen), ohne dafür z.B. als "Schlampe" beschimpft zu werden. Auch asexuelle Menschen können sex-positiv eingestellt sein, da das eine allgemeine Meinung zu einem gesellschaftlichen Thema bezeichnet und nichts mit ihrer persönlichen Orientierung zu tun hat.
 
 Sexuelle Orientierung ist **keine Krankheit**: viele asexuelle Menschen befüchten, dass sie krank oder gestört seien, weil sie nicht der allosexuellen Norm ensprechen. Das ist aber nur ein Anzeichen davon, dass das Wissen über Asexualität noch nicht genug verbreitet ist. Wer nicht (oder nur wegen der abwertenden Reaktionen anderer Menschen) unter der *"mangelnden"* sexuellen Anziehung leidet, ist deswegen auch nicht krank.
+
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="unsichtbarkeit"></a>Coming Out & Unsichtbarkeit
 
@@ -105,12 +114,16 @@ Außerdem ist Asexualität auch noch durch **Allonormativität** unsichtbar: so 
 
 Die asexuelle Community bemüht sich deshalb vor allem darum, mehr Sichtbarkeit zu bewirken und Aufklärung über das asexuelle Spektrum zu verbreiten.
 
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##<a name="community"></a>Die Ace-Community
 
 Im Laufe der letzten Jahre hat sich eine große Community rund um das asexuelle Spektrum (im englischen auch oft mit der Kurzform *"ace"* bezeichnet) gebildet. 
 
 Viel von dieser Vernetzung funktioniert über das Internet, z.B. über diverse Blogs, Gruppen auf sozialen Netzwerken, und über das Forum des [Asexual Visibility and Education Network](https://asexuality.org/) (AVEN), der größten internationalen Organisation, die sich für asexuelle Belange einsetzt.  
 Mittlerweile gibt es in vielen Ländern auch weitere asexuelle Organisationen, die Informationen in der jeweiligen Sprache verbreiten und lokale Treffen organisieren. In Deutschland gibt es z.B. [AktivistA](https://aktivista.net/) und einige lokale Ace-Stammtische in queeren Zentren oder anderswo - wie wir **Amazing Aces** in Braunschweig.
+
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="symbole"></a>Symbole
 
@@ -134,15 +147,10 @@ Eher ein Insider-Meme ist der **Kuchen** als Symbol. Der Ursprung dieses Symbols
 
 Natürlich gibt es noch einige weitere Symbole, diese Aufzählung erhebt keinen Anspruch auf Vollständigkeit.
 
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##Noch Fragen?
 
 Wenn du etwas auf dieser Seite nicht verstehst oder noch mehr über das asexuelle Spektrum wissen möchtest, kannst du uns gerne deine Fragen [schicken](/kontakt/) oder zu unseren [Veranstaltungen](/termine/) kommen.
 
-
-
-
-
-
-
-
-
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
