@@ -5,10 +5,10 @@ tags: veranstaltung, vortrag, stammtisch, infostand
 published: 2019-05-06
 news: true
 nometa: true
-eventdate: false
-eventname: false
-eventtype: false
-eventdetail: false
+eventdate: 2019-08-10
+eventname: "Amazing Aces & AktivistA-Infostand"
+eventtype: im Rahmen des Sommerlochfestivals
+eventdetail: 14-18 Uhr, Schlossplatz
 facebook: false
 twitter: false
 thumbnail: solo-logo-hoch-rgb.jpg
