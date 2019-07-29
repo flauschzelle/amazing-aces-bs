@@ -1,10 +1,10 @@
 ---
 title: "Wir sind #QueerAllYear"
-subtitle: Weil nicht alle Aces auch Gay sind, und das jeden Tag.
+subtitle: false
 tags: csd, sommerloch
 published: 2019-07-12
 news: true
-nometa: true
+nometa: false
 eventdate: false
 eventname: false
 eventtype: false
@@ -14,7 +14,7 @@ twitter: false
 thumbnail: queerallyear_ace.png
 ---
 
-## Gay for one Day? Ace every Day!
+##Gay for one Day? Ace every Day!
 
 Das Motto des Sommerlochfestivals in diesem Jahr macht uns Kopfzerbrechen.
 

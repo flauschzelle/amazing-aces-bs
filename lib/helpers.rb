@@ -101,7 +101,7 @@ def abstract_for item
         content = item.raw_content.dup
         content.gsub!(/!\[([^\]]*)\]\([^)]*\)/,"") # remove images
         content.gsub!(/\[([^\]]*)\]\([^)]*\)/,"\\1") # replace links with link text
-        content.gsub!(/[*"]/,"") # remove italic and bold markers and quotations
+        content.gsub!(/[*"#]/,"") # remove italic and bold markers, quotations and headline markers
         content.strip!
         abstract = content[/^[[:print:]]{20,256}[.…!?:*]/] || item[:title]
     end
