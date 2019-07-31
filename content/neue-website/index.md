@@ -12,4 +12,4 @@ Bisher waren wir nur auf Twitter und Facebook erreichbar, und eher unzuverlässi
 
 ## Übrigens:
 
-Der Betrieb dieser Website kostet uns aktuell ca. 70€ pro Jahr. Falls ihr dafür etwas spenden möchtet, [meldet euch](/kontakt/) gerne bei uns :)
+Der Betrieb dieser Website kostet uns aktuell ca. 70€ pro Jahr. Wir freuen uns, falls ihr dafür etwas [spenden](/spenden/) mögt :)
