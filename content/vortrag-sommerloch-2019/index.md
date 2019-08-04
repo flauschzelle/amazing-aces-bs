@@ -33,3 +33,5 @@ Dank der besseren Verbreitung von Informationen durch das Internet hat sich mitt
 In diesem Vortrag werden sowohl die Grund&shy;begriffe des asexuellen Spektrums erläutert, als auch darauf eingegangen, wie queere Communities und Verbündete unsere Sichtbarkeit unterstützen können. Außerdem ist das Modell der verschiedenen Anziehungsebenen hilfreich, um genauer über Intimität und Beziehungen sprechen zu können - nicht nur für asexuelle Menschen, sondern für alle.
 
 **Kirstin Rohwer** ist asexuell und setzt sich für Aufklärung und Sichtbarkeit des asexuellen Spektrums ein. Sie ist aktiv im Orga-Team der [Amazing Aces](http://amazing-aces-bs.de) und beim Verein [AktivistA](https://aktivista.net/).
+
+Die Folien für den Vortrag könnt ihr übrigens [hier](http://metakiki.net/vortrag-asexualitaet/) runterladen.
