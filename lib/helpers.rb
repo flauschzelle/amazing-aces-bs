@@ -95,7 +95,9 @@ def lang_for item
 end
 
 def abstract_for item
-    if item[:subtitle]
+    if item[:abstract]
+        item[:abstract]
+    elsif item[:subtitle]
         item[:subtitle]
     else
         content = item.raw_content.dup
