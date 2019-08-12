@@ -44,6 +44,6 @@ Es gibt auch schon einen ausführlichen [Bericht mit Bildern auf der Website von
 
 Auch bei der CSD-Parade waren wir diesmal mit unseren Flaggen und Schildern gut zu sehen. Wir freuen uns schon aufs nächste Mal!
 
-![Menschen mit Ace-Flaggen und Schildern bei der CSD-Demo](amazing-aces-csd-2019.jpg)
+[![Menschen mit Ace-Flaggen und Schildern bei der CSD-Demo](amazing-aces-csd-2019.jpg)](http://gallery.hebel-foto.de/albums/userpics/10001/2019-08-10_CSD-Demo_21927.jpg){:target='_blank'}
 
 (Foto von [hebel-foto.de](http://hebel-foto.de/), [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.de))
