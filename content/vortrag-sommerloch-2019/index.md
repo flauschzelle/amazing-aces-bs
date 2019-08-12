@@ -34,4 +34,8 @@ In diesem Vortrag werden sowohl die Grund&shy;begriffe des asexuellen Spektrums 
 
 **Kirstin Rohwer** ist asexuell und setzt sich für Aufklärung und Sichtbarkeit des asexuellen Spektrums ein. Sie ist aktiv im Orga-Team der [Amazing Aces](http://amazing-aces-bs.de) und beim Verein [AktivistA](https://aktivista.net/).
 
-Die Folien für den Vortrag könnt ihr übrigens [hier](http://metakiki.net/vortrag-asexualitaet/) runterladen.
+##Downloads
+
+Die **Folien** für den Vortrag könnt ihr übrigens [hier](http://metakiki.net/vortrag-asexualitaet/) runterladen. 
+
+Sobald die **Videoaufzeichnung** fertig geschnitten ist, wird sie ebenfalls dort verfügbar sein.
