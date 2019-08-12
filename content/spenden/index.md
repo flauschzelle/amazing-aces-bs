@@ -2,6 +2,7 @@
 title: Unterstütze uns
 subtitle: "...so könnt ihr uns unterstützen"
 nometa: true
+thumbnail: amazing-aces-spendenbox.jpg
 ---
 
 ##Spenden
@@ -14,7 +15,9 @@ Wir haben aber außerdem immer mal wieder weitere Kosten, wie z.B. für die Doma
 
 Wenn du für unsere Arbeit spendest, ermöglichst du uns, solche Projekte spontan umzusetzen.
 
-Du kannst deine Spende z.B. beim Stammtisch oder an unserem Infostand in unsere Spendendose werfen. Oder wenn du lieber online spenden möchtest, dann kannst du das Geld z.B. per Paypal [an unsere Organisatorin Kirstin](http://paypal.me/metakiki) schicken, und dazu schreiben, dass es eine Spende für die Amazing Aces ist. Und falls du kein Paypal verwenden möchtest, dann [sag uns Bescheid](/kontakt/) und wir finden einen anderen Weg.
+![Ein Foto von unserer Spendenbox](amazing-aces-spendenbox.jpg)
+
+Du kannst deine Spende z.B. beim Stammtisch oder an unserem Infostand in unsere Spendenbox werfen. Oder wenn du lieber online spenden möchtest, dann kannst du das Geld z.B. per Paypal [an unsere Organisatorin Kirstin](http://paypal.me/metakiki) schicken, und dazu schreiben, dass es eine Spende für die Amazing Aces ist. Und falls du kein Paypal verwenden möchtest, dann [sag uns Bescheid](/kontakt/) und wir finden einen anderen Weg.
 
 ##Andere Unterstützung
 
