@@ -38,4 +38,10 @@ In diesem Vortrag werden sowohl die Grund&shy;begriffe des asexuellen Spektrums 
 
 Die **Folien** für den Vortrag könnt ihr übrigens [hier](http://metakiki.net/vortrag-asexualitaet/) runterladen. 
 
-Sobald die **Videoaufzeichnung** fertig geschnitten ist, wird sie ebenfalls dort verfügbar sein.
+##Video
+
+Der Vortrag wurde auf Video aufgezeichnet. Falls ihr am 7.8.2019 nicht dabei sein konntet, könnt ihr ihn jetzt [hier](https://www.youtube.com/watch?v=etlFeVXdJMI) nachhören:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/etlFeVXdJMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
