@@ -28,7 +28,7 @@ Der Vortrag war mit ca. 30 Zuschauenden so gut besucht, dass die Sitzplätze mit
 
 Der Vortrag wurde auf Video aufgezeichnet. Falls ihr also nicht dabei sein konntet, könnt ihr ihn jetzt [hier](https://www.youtube.com/watch?v=etlFeVXdJMI) nachhören:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/etlFeVXdJMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<%= youtube("etlFeVXdJMI") %>
 
 Direkt am folgenden Tag fand dann unser monatlicher [Stammtisch](/2019-08-stammtisch/) statt, der ebenfalls im Sommerlochfestival-Programmheft angekündigt wurde. Dort haben wir zur Feier des Tages – und um unserem Klischee gerecht zu werden ;) – erstmal einen Kuchen gegessen. 
 
