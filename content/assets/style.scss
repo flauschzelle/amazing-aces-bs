@@ -216,6 +216,15 @@ body {
         display: block;
         margin: auto;
     }
+	img.book { 
+		width: 30%;
+//		display: inline;
+		float: left;
+		padding: 0.8em;
+		padding-left: 0.1em;
+		padding-top: 0.6em;
+	}
+
 	img[alt=Tasche] { 
 		width: 24%;
 		display: inline;
@@ -502,6 +511,12 @@ body {
             	padding-right: 0em;
         	}
     	}
+		img.book { 
+			width: 90%;
+			display: inline;
+			float: none;
+			padding: 0.1em;
+		}
 		img[alt=Tasche] { 
 			width: 75%;
 			display: block;
