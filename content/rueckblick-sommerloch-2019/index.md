@@ -1,7 +1,7 @@
 ---
 title: "Rückblick: CSD Braunschweig 2019"
 subtitle: Wir waren vielfältig aktiv in dieser CSD-Saison
-tags: veranstaltung, csd, sommerloch
+tags: Veranstaltung, CSD, Sommerloch
 published: 2019-08-12
 news: true
 nometa: false

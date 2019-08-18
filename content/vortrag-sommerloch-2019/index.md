@@ -1,7 +1,7 @@
 ---
 title: "Asexualität - Die unsichtbare Orientierung?"
 subtitle: Vortrag von Kirstin Rohwer im Rahmen des Sommerlochfestivals 2019
-tags: veranstaltung, vortrag
+tags: Veranstaltung, Vortrag
 published: 2019-05-06
 news: true
 nometa: true

@@ -1,7 +1,7 @@
 ---
 title: "Wir sind #QueerAllYear"
 subtitle: false
-tags: csd, sommerloch
+tags: CSD, Sommerloch
 published: 2019-07-12
 news: true
 nometa: false

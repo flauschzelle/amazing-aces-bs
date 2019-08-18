@@ -1,7 +1,7 @@
 ---
 title: "Amazing Aces beim Sommerlochfestival"
 subtitle: Wir werden sichtbar in der queeren Community in Braunschweig
-tags: veranstaltung, vortrag, stammtisch, infostand
+tags: Veranstaltung, Vortrag, Stammtisch, Infostand
 published: 2019-05-06
 news: true
 nometa: true

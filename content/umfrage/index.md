@@ -1,7 +1,7 @@
 ---
 title: "Umfrage für die Ace-Community"
 subtitle: "Helft mit, Ace-Stammtische zu verbessern!"
-tags: umfrage
+tags: Umfrage
 published: 2019-05-12
 news: true
 thumbnail: ../assets/images/amazing-aces-logo.png

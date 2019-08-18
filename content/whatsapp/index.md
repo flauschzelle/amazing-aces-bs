@@ -1,7 +1,7 @@
 ---
 title: "Jetzt auch bei Whatsapp"
 subtitle: "Eine Gruppe zum plaudern und kennenlernen"
-tags: website, social media
+tags: Website, Social Media
 published: 2019-06-24
 news: true
 ---

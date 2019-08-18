@@ -1,6 +1,6 @@
 ---
 title: "Wir haben neue Flyer!"
-tags: website, flyer
+tags: Website, Flyer
 published: 2019-07-27
 news: true
 thumbnail: flyer.jpg
