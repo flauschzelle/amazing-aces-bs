@@ -10,7 +10,7 @@ eventname: "Ace-Stammtisch September 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
 facebook: false
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1163789047086682113
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
