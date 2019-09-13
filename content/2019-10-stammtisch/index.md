@@ -10,7 +10,7 @@ eventname: "2 Jahre Amazing Aces!"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
 facebook: false
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1172598361880453121
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
