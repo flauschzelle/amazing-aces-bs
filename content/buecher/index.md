@@ -70,7 +70,7 @@ When an asexual person comes out, alarming reactions regularly follow; loved one
 In *The Invisible Orientation*, Julie Sondra Decker outlines what asexuality is, counters misconceptions, provides resources, and puts asexual people’s experiences in context as they move through a very sexualized world. It includes information for asexual people to help understand their orientation and what it means for their relationships, as well as tips and facts for those who want to understand their asexual friends and loved ones.
 
 **Review by Kirstin:**  
-This is the first book amimed at non-professional readers, as far as I know, that gives a good overview about the topic of asexuality. It provides a basic introduction into the subject, as well as common misconceptions and problems. As there are still so many people who have never even heard about asexuality, this book is a very useful resource and I would recommend it to anyone who wants to start learning about asexuality.  
+This is the first book aimed at non-professional readers, as far as I know, that gives a good overview about the topic of asexuality. It provides a basic introduction into the subject, as well as common misconceptions and problems. As there are still so many people who have never even heard about asexuality, this book is a very useful resource and I would recommend it to anyone who wants to start learning about asexuality.  
 
 It has been translated into Japanese, but not yet into German (as of summer 2019). I hope that there will be a german translation someday.
 
