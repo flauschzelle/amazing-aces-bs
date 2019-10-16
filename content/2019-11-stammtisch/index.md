@@ -9,8 +9,8 @@ eventdate: 2019-11-14
 eventname: "Ace-Stammtisch November 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
-facebook: false
-twitter: false
+facebook: https://www.facebook.com/events/467616454083598/?event_time_id=467616464083597
+twitter: https://twitter.com/AmazingAcesBS/status/1184616287546335233
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum

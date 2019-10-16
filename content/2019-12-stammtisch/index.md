@@ -1,5 +1,5 @@
 ---
-title: "Amazing Aces Stammtisch im November 2019"
+title: "Amazing Aces Stammtisch im Dezember 2019"
 subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
 published: 2019-07-12
