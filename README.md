@@ -22,6 +22,6 @@ Die Website ist komplett statisch, kommt also ohne Browser-seitige Skripte aus.
 Sie wird mit [nanoc](http://nanoc.ws) generiert. Um Änderungen zu veröffentlichen, ist folgendes Vorgehen nötig:
 
 0. Voraussetzung: Alle Quelldateien sind entsprechend angepasst worden (Inhalte, Links, etc. - *Info dazu wird später an dieser Stelle ergänzt*).
-1. Im Hauptverzeichnis der Seite wird einmal der Befehl *nanoc* ausgeführt. Damit werden alle geänderten Dateien neu kompiliert.
-2. Mit dem Befehl *nanoc view* wird eine lokale Vorschau gestart, die unter *http://localhost:3000* im Browser erreichbar ist. Dann können die Änderungen geprüft und ggf. nochmal angepasst werden (Schritte 0 und 1 wiederholen, dann die Seite im Browser neu laden). Wenn alles richtig aussieht, kann der Vorschau-Prozess z.B. mit *Strg+C* beendet werden.
-3. Um die Änderungen zu veröffentlichen, wird *nanoc deploy* ausgeführt (der Pfad zum Verzeichnis auf dem Webserver muss dazu in der Datei *nanoc.yaml* unter *dst:* (Zeile 17) richtig angegeben sein, und die Zugriffsrechte für den Server müssen auf dem Rechner vorhanden sein, der dafür verwendet wird.)
+1. Im Hauptverzeichnis der Seite wird einmal der Befehl `nanoc` ausgeführt. Damit werden alle geänderten Dateien neu kompiliert.
+2. Mit dem Befehl `nanoc view` wird eine lokale Vorschau gestart, die unter *http://localhost:3000* im Browser erreichbar ist. Dann können die Änderungen geprüft und ggf. nochmal angepasst werden (Schritte 0 und 1 wiederholen, dann die Seite im Browser neu laden). Wenn alles richtig aussieht, kann der Vorschau-Prozess z.B. mit *Strg+C* beendet werden.
+3. Um die Änderungen zu veröffentlichen, wird `nanoc deploy` ausgeführt (der Pfad zum Verzeichnis auf dem Webserver muss dazu in der Datei *nanoc.yaml* unter `dst:` (Zeile 17) richtig angegeben sein, und die Zugriffsrechte für den Server müssen auf dem Rechner vorhanden sein, der dafür verwendet wird.)
