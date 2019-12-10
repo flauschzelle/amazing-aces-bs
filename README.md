@@ -19,8 +19,10 @@ Für eine weitere Stadt ist aktuell (Ende 2019) bereits ein solches Projekt in A
 
 Die Website ist komplett statisch, kommt also ohne Browser-seitige Skripte aus.
 
-Sie wird mit [nanoc](http://nanoc.ws) generiert. Um Änderungen zu veröffentlichen, ist folgendes Vorgehen nötig:
+Sie wird mit [nanoc](http://nanoc.ws) generiert. Es gibt dazu ein gutes [offizielles Tutorial](https://nanoc.ws/doc/tutorial/) (auf Englisch), um die wichtigsten Grundlagen zu lernen. 
 
+Hier gebe ich daher nur eine Kurzfassung zur Anwendung. Um Änderungen zu veröffentlichen, ist folgendes Vorgehen nötig:
+ 
 0. Voraussetzung: Alle Quelldateien sind entsprechend angepasst worden (Inhalte, Links, etc. - *Info dazu wird später an dieser Stelle ergänzt*).
 1. Im Hauptverzeichnis der Seite wird einmal der Befehl `nanoc` ausgeführt. Damit werden alle geänderten Dateien neu kompiliert.
 2. Mit dem Befehl `nanoc view` wird eine lokale Vorschau gestart, die unter *http://localhost:3000* im Browser erreichbar ist. Dann können die Änderungen geprüft und ggf. nochmal angepasst werden (Schritte 0 und 1 wiederholen, dann die Seite im Browser neu laden). Wenn alles richtig aussieht, kann der Vorschau-Prozess z.B. mit *Strg+C* beendet werden.
