@@ -9,8 +9,8 @@ eventdate: 2019-12-12
 eventname: "Ace-Stammtisch Dezember 2019"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
-facebook: false
-twitter: false
+facebook: https://www.facebook.com/events/467616460750264
+twitter: https://twitter.com/AmazingAcesBS/status/1202233507336146944
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
@@ -24,6 +24,8 @@ Dann komm vorbei und lasst uns eine große Community werden!
 Wir treffen uns in den Räumen der [Frauenbibliothek](https://www.frauenbib-bs.de) an der TU. Auch wenn der Name evtl. nicht danach klingt: dort sind alle Menschen willkommen, unabhängig von Geschlecht und Alter, egal ob Studi oder nicht!
 
 Es gibt gemütliche Sitzplätze, und niemand ist gezwungen, Geld für Essen und Trinken auszugeben. Ihr könnt euch gerne selbst Essen und/oder Getränke mitbringen.
+
+**Für die weihnachtliche/winterliche Stimmung zum Dezember-Treffen haben wir (wie immer) Tee, und wer mag, darf gerne Plätzchen o.ä. mitbringen :)**
 
 Wer schon früher kommen mag: die Bibliothek hat vorher geöffnet, d.h. ihr könnt euch schon in Ruhe umschauen und ankommen. Ab 20 Uhr sind wir dann alleine dort und können die Gesprächsrunde beginnen.
 
