@@ -9,8 +9,8 @@ eventdate: 2020-01-09
 eventname: "Ace-Stammtisch Januar 2020"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
-facebook: false
-twitter: false
+facebook: https://www.facebook.com/events/2804185289646974/
+twitter: https://twitter.com/AmazingAcesBS/status/1214170982455361536
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
