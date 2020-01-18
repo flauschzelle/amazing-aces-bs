@@ -79,7 +79,7 @@ end
 def tags_for item, link=true
     item[:tags].map do |tag|
         if link
-            "<a href=\"/news/##{tag}\">#{tag}</a>"
+            "<a href=\"/blog/##{tag}\">#{tag}</a>"
         else
             tag
         end
