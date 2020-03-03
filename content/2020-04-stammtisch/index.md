@@ -1,21 +1,21 @@
 ---
-title: "Amazing Aces Stammtisch im März 2020"
+title: "Amazing Aces Stammtisch im April 2020"
 subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
-published: 2019-12-04
+published: 2020-02-07
 news: false
 nometa: true
-eventdate: 2020-03-12
-eventname: "Ace-Stammtisch März 2020"
+eventdate: 2020-04-09
+eventname: "Ace-Stammtisch April 2020"
 eventtype: "Stammtisch"
 eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
-facebook: https://www.facebook.com/events/533819480576459/
-twitter: https://twitter.com/AmazingAcesBS/status/1234789110453358592
+facebook: false
+twitter: false
 ---
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 
-### Do, 12.03.2020 um 20:00 Uhr in der [Frauenbibliothek](https://www.frauenbib-bs.de)
+### Do, 09.04.2020 um 20:00 Uhr in der [Frauenbibliothek](https://www.frauenbib-bs.de)
 
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
