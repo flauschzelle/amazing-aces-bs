@@ -14,6 +14,23 @@ preprocess do
         if item[:tags]
             item[:tags] = item[:tags].split(",").map{|t| t.strip}
         end
+		if item[:title]
+			dir = item.identifier.to_s.split("/")[0..-2].join("/")+"/"
+			if item[:thumbnail]
+				if item[:thumbnail][0] != "/" # Thumbnail path is relative
+					item[:thumbnail] = dir+item[:thumbnail] # make path absolute
+				end
+			else
+				thumb = @items[dir+"*thumbnail*{png,jpg,gif,svg}"] ||
+                        @items[dir+"*talk*.pdf"] ||
+                        @items[dir+"*.{png,jpg,gif,svg,pdf}"]
+				if thumb 
+					item[:thumbnail] = thumb.identifier
+				else
+					item[:thumbnail] = "/assets/images/amazing-aces-logo.png"
+				end
+			end
+		end
     end
 end
 
@@ -32,37 +49,41 @@ compile "/**/*.xml" do
     write item.identifier.without_ext + ".html"
 end
 
+=begin
 #this creates a thumbnail from the default thumbnail image (logo, in the assets dir):
 compile "/assets/images/amazing-aces-logo.png", :rep => :thumbnail do
     filter :thumbnailize, :width => 600
-    write item.identifier + "-thumbnail.png"
+    write item.identifier + "-thumbnail.jpg"
 end
 
-#this creates thumbnails from svg images (except those in the assets dir):
-compile "/**/*.svg", :rep => :thumbnail do
-    filter :thumbnailizesvg, :width => 600
-	if item.identifier =~ '/assets/**/*.svg'
-#		write nil
-	else
-    	write item.identifier + "-thumbnail.png"
+#this creates a mini thumbnail from the default thumbnail image (logo, in the assets dir):
+compile "/assets/images/amazing-aces-logo.png", :rep => :minithumbnail do
+    filter :thumbnailize, :width => 350
+    write item.identifier + "-minithumbnail.jpg"
+end
+=end
+
+#this creates thumbnails from all images used as thumbnails somewhere:
+compile "/**/*.{png,jpg,gif,svg}", :rep => :thumbnail do
+	if @items.any?{|i| i[:thumbnail] == item.identifier}
+		if item.identifier.ext == "svg"
+			filter :thumbnailizesvg, :width => 600
+		end
+		filter :thumbnailize, :width => 600
+		write item.identifier + "-thumbnail.jpg"
 	end
 end
 
-#this creates thumbnails from all other images (except those in the assets dir):
-compile "/**/*.{png,jpg,gif}", :rep => :thumbnail do
-    filter :thumbnailize, :width => 600
-	if item.identifier =~ '/assets/**/*.{png,jpg,gif}'
-#		write nil
-	else
-    	write item.identifier + "-thumbnail.png"
+#this creates mini thumbnails from all images used as thumbnails somewhere:
+compile "/**/*.{png,jpg,gif,svg}", :rep => :minithumbnail do
+	if @items.any?{|i| i[:thumbnail] == item.identifier}
+		if item.identifier.ext == "svg"
+			filter :thumbnailizesvg, :width => 350
+		end
+    	filter :thumbnailize, :width => 350
+		write item.identifier + "-minithumbnail.jpg"
 	end
 end
-
-#before I added the exclusion of the assets dir, it looked like this:
-#compile "/**/*.{png,jpg,gif,svg}", :rep => :thumbnail do
-#    filter :thumbnailize, :width => 600
-#    write item.identifier + "-thumbnail.png"
-#end
 
 compile "/**/*.md" do
     filter :erb
@@ -90,7 +111,16 @@ end
 compile "/**/*.pdf", :rep => :thumbnail do
     filter :titlepageize
     filter :thumbnailizesvg, :width => 600
-    write item.identifier + "-titlepage.svg-thumbnail.png"
+	filter :thumbnailize, :width => 600
+    write item.identifier + "-titlepage.svg-thumbnail.jpg"
+end
+
+#this creates mini thumbnail png images for the pdf title pages:
+compile "/**/*.pdf", :rep => :minithumbnail do
+    filter :titlepageize
+    filter :thumbnailizesvg, :width => 350
+    filter :thumbnailize, :width => 350
+    write item.identifier + "-titlepage.svg-minithumbnail.jpg"
 end
 
 #this puts the .htaccess file in the right place

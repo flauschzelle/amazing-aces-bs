@@ -3,7 +3,7 @@ title: Häufig gestellte Fragen
 subtitle: Amazing Aces Brauschweig
 nometa: true
 menu: Häufige Fragen
-thumbnail: ../assets/images/amazing-aces-logo.png
+thumbnail: /assets/images/amazing-aces-logo.png
 ---
 <a name="top"></a>
 

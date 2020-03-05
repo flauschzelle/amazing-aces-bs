@@ -4,7 +4,7 @@ subtitle: "Helft mit, Ace-Stammtische zu verbessern!"
 tags: Umfrage
 published: 2019-05-12
 news: true
-thumbnail: ../assets/images/amazing-aces-logo.png
+thumbnail: /assets/images/amazing-aces-logo.png
 ---
 
 ## Ihr seid gefragt: wie wünscht ihr euch eure lokale Community?

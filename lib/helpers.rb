@@ -110,18 +110,30 @@ def abstract_for item
 end
 
 def thumbnail_for item
-    thumbnail = if item[:thumbnail]
-                    @items[item.path+item[:thumbnail]]
+	thumbnail = if item[:thumbnail]
+                    @items[item[:thumbnail]]
                 else
-                    @items[item.path+"*thumbnail*{png,jpg,gif,svg}"] ||
-                        @items[item.path+"*talk*.pdf"] ||
-                        @items[item.path+"*.{png,jpg,gif,svg,pdf}"]
-                end
+					nil
+				end
 
     if thumbnail && thumbnail.reps[:thumbnail]
         thumbnail.reps[:thumbnail].path
-    else
-        "/assets/images/amazing-aces-logo.png-thumbnail.png"
+	else
+		raise "error: could not find thumbnail rep of "+item.identifier.to_s
+    end
+end
+
+def minithumbnail_for item
+	thumbnail = if item[:thumbnail]
+                    @items[item[:thumbnail]]
+                else
+					nil
+				end
+
+    if thumbnail && thumbnail.reps[:minithumbnail]
+        thumbnail.reps[:minithumbnail].path
+	else
+		raise "error: could not find minithumbnail rep of "+item.identifier.to_s+" (thumbnail is "+item[:thumbnail]+")"
     end
 end
 
