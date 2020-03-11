@@ -14,7 +14,7 @@ deploy:
   default:
     kind: rsync
 #commented out the next line for safety until i have a webspace for this site
-    dst: "amazing-aces-bs.de:/var/www/virtual/acesbs/html"
+    dst: "amazing-aces-bs.de:/var/www/virtual/amacesbs/html"
     options: [
       '--partial',
       '--progress',
