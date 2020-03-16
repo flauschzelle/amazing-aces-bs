@@ -6,16 +6,22 @@ published: 2020-02-07
 news: false
 nometa: true
 eventdate: 2020-04-09
-eventname: "Ace-Stammtisch April 2020"
-eventtype: "Stammtisch"
-eventdetail: "um 20:00 Uhr in der Frauenbibliothek"
+eventname: "(Ace-Stammtisch April 2020)"
+eventtype: "(fällt aus)"
+eventdetail: "Unterhaltet euch stattdessen gerne online!"
 facebook: false
 twitter: false
 ---
 
+## ACHTUNG:
+
+*Wegen der Vorsichtsmaßnahmen zur Eindämmung des Coronavirus (es wird zur Zeit dringend empfohlen, dass alle Menschen so viel wie möglich zuhause bleiben) wird der Stammtisch im April voraussichtlich* _**nicht stattfinden!**_
+
+*Wenn ihr euch mit anderen Menschen im asexuellen Spektrum unterhalten wollt, meldet euch gerne z.B. in unserer [WhatsApp-Gruppe](/whatsapp/) an (Schreibt uns dazu einfach eine [e-mail](/kontakt/) mit eurer Handynummer).*
+
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 
-### Do, 09.04.2020 um 20:00 Uhr in der [Frauenbibliothek](https://www.frauenbib-bs.de)
+### <s>Do, 09.04.2020 um 20:00 Uhr in der Frauenbibliothek</s>
 
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
