@@ -44,7 +44,7 @@ Wenn ihr Ideen habt, könnt ihr die auch gerne einbringen, wir bieten euch nur d
 
 ![Foto_Hochformat_float_right](kirstin.jpg)
 
-**Kirstin:** *Ich wurde 1987 geboren und verstehe mich seit 2015 als asexuell und bi-/panromantisch. Außerdem lebe ich polyamor. Ich bin selbständig als Schneidermeisterin und studiere Informatik an der TU Braunschweig.*  
+**Kirstin:** *Ich wurde 1987 geboren und verstehe mich seit 2015 als irgendwo im asexuellen Spektrum (wo genau, bin ich mir im Moment nicht sicher). Außerdem lebe ich polyamor, bin selbständig als Schneidermeisterin und studiere Informatik an der TU Braunschweig.*  
 *Ich habe die Amazing Aces mitgegründet, weil mir die Sichtbarkeit von Asexualität wichtig ist (hätte ich mehr darüber gewusst, wäre mein Coming-out sicherlich früher und einfacher gewesen). Außerdem möchte ich eine Community schaffen, in der wir Aces uns nicht als Außenseiter\*innen fühlen müssen und uns mit unseren Erfahrungen gegenseitig unterstützen können.*
 
 ![Foto_Hochformat_float_left](lena.jpg) 
