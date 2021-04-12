@@ -9,7 +9,7 @@ Bei Fragen erreicht ihr uns am besten per E-mail oder auf Twitter. Auf Facebook 
 **Twitter:** [@AmazingAcesBS](https://twitter.com/AmazingAcesBS)  
 **Facebook:** [Amazing Aces BS](https://facebook.com/AmazingAcesBS)  
 
-Außerdem haben wir eine **Whatsapp-Gruppe**, in der wir uns auch außerhalb von Veranstaltungen unterhalten können. Wer in die Gruppe rein möchte: schickt uns eure Handynummer per e-mail oder sprecht Lena beim Stammtisch darauf an.
+Außerdem haben wir eine **Signal-Gruppe** und eine **Whatsapp-Gruppe**, in der wir uns auch außerhalb von Veranstaltungen unterhalten können. Wer in die Gruppen rein möchte: schickt uns eure Handynummer per e-mail oder sprecht Lena beim Stammtisch darauf an.
 
 ## Impressum
 
