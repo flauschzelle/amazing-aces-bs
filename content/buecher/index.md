@@ -3,7 +3,7 @@ title: "Bücher zum Thema Asexualität"
 tags: Ressourcen, Bücher
 not published: 2019-08-18
 news: false
-no thumbnail: buecher.jpg
+thumbnail: buecher.png
 ---
 
 Asexualität ist zwar oft unsichtbar, aber zum Glück nicht immer - auch, was Bücher angeht. Bücher erreichen auch Menschen, die sich nicht gezielt mit Asexualität beschäftigen, und tragen so zur Verbreitung unserer Sichtbarkeit bei. Das gilt vor allem, wenn diese Bücher in Bibliotheken und Buchläden ausgestellt werden, so dass mehr Menschen darauf aufmerksam werden können. Fragt also gerne in eurer Bücherei oder dem Buchladen eures Vertrauens nach, ob sie diese Bücher vorrätig haben - das zeigt ihnen, dass sich Menschen dafür interessieren, und dass es sich lohnt, diese Bücher anzubieten!
@@ -12,7 +12,7 @@ Wir haben für euch eine Liste von Büchern zusammengestellt, in denen Asexualit
 
 In der [Frauenbibliothek Braunschweig](https://www.frauenbib-bs.de/), in der auch unser monatlicher Stammtisch stattfindet, gibt es auch einige davon auch zum Ausleihen. Wir haben diese Bücher in der Liste entsprechend gekennzeichnet.
 
-![Foto von Büchern aus der Frauenbibliothek, in denen Asexualität vorkommt](buecher.jpg)
+![Foto von Büchern aus der Frauenbibliothek, in denen Asexualität vorkommt](buecher.png)
 
 Wir haben Bücher in deutscher und englischer Sprache aufgelistet - auf Englisch gibt es generell wesentlich mehr Bücher, in denen Asexualität vorkommt, aber wir kennen vermutlich nur einen Bruchteil davon.
 
