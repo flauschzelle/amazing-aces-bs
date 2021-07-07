@@ -10,7 +10,7 @@ eventname: "Ace-Stammtisch Juli 2021"
 eventtype: "Online-Stammtisch"
 eventdetail: "um 20:00 Uhr via BigBlueButton"
 facebook: false
-twitter: false
+twitter: https://twitter.com/AmazingAcesBS/status/1412809438159851524
 ---
 
 *Um die Ausbreitung des Coronavirus zu verhindern, wollen wir im Moment noch keine Veranstaltung in Innenräumen stattfinden lassen. Deswegen wird der Stammtisch im Juli* _**nicht vor Ort stattfinden!**_ 
@@ -19,7 +19,7 @@ twitter: false
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 
-### Do, 08.07.2020 um 20:00 Uhr via BigBlueButton
+### Do, 08.07.2021 um 20:00 Uhr via BigBlueButton
 
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
