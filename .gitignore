@@ -2,4 +2,5 @@
 /tmp
 /.sass-cache
 crash.log
-/rohmaterial und zusätzliches
+/rohmaterial und extras
+*.DS_Store
