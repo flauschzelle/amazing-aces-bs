@@ -70,8 +70,6 @@ Normalerweise ist immer mindestens eine von uns Organisatorinnen da, meistens be
 
 Da gibt es mehrere Möglichkeiten: 
 
-- Zu jedem Stammtisch-Termin erstellen wir auch eine Veranstaltung auf [Facebook](https://facebook.com/AmazingAcesBS). Dort kannst du dich als Teilnehmer\*in oder als Interessiert eintragen und mit anderen Teilnehmer\*innen interagieren. Es sind aber nicht alle Leute, die zu unserem Stammtisch kommen, auch bei Facebook aktiv.
-- Du kannst uns auf [Twitter](https://twitter.com/AmazingAcesBS) folgen. Auch da veröffentlichen wir zu jedem Termin einen Ankündigungstweet und du kannst dort kommentieren oder uns in deinem Tweet erwähnen, um andere Teilnehmer\*innen zu finden.
 - Wenn du eine konkrete Frage hast, kannst du uns Organisatorinnen auch eine [E-mail](/kontakt/) schreiben - wir können die Frage ggf. auch per E-mail an die Leute weiterleiten, die unsere Termin-Erinnerungen und Nachrichten abonniert haben.
 - Wir haben Gruppen bei **Signal** und **Whatsapp**, in denen sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn ihr in diese Gruppen rein möchtet (oder wenn ihr Interesse daran hättet, eine Gruppe auf einem anderen Messenger zu nutzen), [sagt uns Bescheid](/kontakt/)!
 
