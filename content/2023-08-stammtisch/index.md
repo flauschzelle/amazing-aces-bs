@@ -1,28 +1,26 @@
 ---
-title: "Amazing Aces Stammtisch im Juni 2023"
+title: "Amazing Aces Stammtisch im August 2023"
 subtitle: Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 tags: Veranstaltung
-published: 2023-05-05
+published: 2023-05-29
 updated: 2023-05-29
 news: false
 nometa: true
-eventdate: 2023-06-15
-eventname: "Ace-Stammtisch Juni 2023"
+eventdate: 2023-08-10
+eventname: "Ace-Stammtisch August 2023"
 eventtype: "Picknick im Park"
 eventdetail: "Treffen 19:00 Uhr am Onkel Emma"
 facebook: false
 twitter: false
 ---
 
-*Da zur Zeit immer noch viele Infektionskrankheiten in der Luft umgehen, wollen wir im Moment noch keine Veranstaltung in Innenräumen stattfinden lassen. Deswegen wird der Stammtisch im Juni voraussichtlich* _**draußen stattfinden!**_ 
+*Da zur Zeit immer noch viele Infektionskrankheiten in der Luft umgehen, wollen wir keine Veranstaltung in Innenräumen stattfinden lassen. Deswegen wird der Stammtisch im August voraussichtlich* _**draußen stattfinden!**_ 
 
-*Eventuell (falls das Wetter nicht mitspielt) wird es auch wieder ein* _**Online-Treffen.**_ *Für aktuelle Updates schaut am besten kurz vorher nochmal hier rein, oder lasst euch per E-mail erinnern.*
-
-**Achtung:** _diesmal **eine Woche später und eine Stunde früher** als üblich!_
+*Eventuell (falls das Wetter nicht mitspielt) wird es stattdessen ein* _**Online-Treffen.**_ *Für aktuelle Updates schaut am besten kurz vorher nochmal hier rein, oder lasst euch per E-mail erinnern.*
 
 ## Unser monatliches Treffen für alle Menschen im asexuellen Spektrum
 
-### Do, 15.06.2023 ab 19:00 Uhr
+### Do, 10.08.2023 ab 19:00 Uhr
 
 Du bist asexuell, demisexuell, oder gray-ace?
 Oder du bist dir noch nicht ganz sicher, aber möchtest dich einfach gerne mit anderen Menschen des asexuellen Spektrums treffen und gemeinsam über eure Erfahrungen mit einer Welt sprechen, in der Asexualität noch viel zu oft unsichtbar gemacht wird?
