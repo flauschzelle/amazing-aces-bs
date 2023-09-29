@@ -42,10 +42,15 @@ html lang=lang_for(@item)
     link rel="shortcut icon" href="/assets/favicons/favicon.ico"
     meta name="msapplication-TileColor" content="#9f00a7"
     meta name="msapplication-config" content="/assets/favicons/browserconfig.xml"
-    meta name="theme-color" content="#940b92"
 
-    
-    link rel="stylesheet" href="/assets/style.css"
+    meta name="theme-color" content="#940b92" media="(prefers-color-scheme: dark)"
+    meta name="theme-color" content="#ffffff" media="not (prefers-color-scheme: dark)"
+
+    link rel="stylesheet" href="/assets/style.css" type="text/css"
+    link rel="stylesheet" href="/assets/style_dark.css" type="text/css" media="(prefers-color-scheme: dark)"
+    link rel="stylesheet" href="/assets/style_light.css" type="text/css" media="not (prefers-color-scheme: dark)" 
+    link rel="alternate stylesheet" href="/assets/style_dark.css" type="text/css" title="dark"
+    link rel="alternate stylesheet" href="/assets/style_light.css" type="text/css" title="light"
 
     - if ["/blog/"].include? @item.path
       script src="https://code.jquery.com/jquery-3.1.1.min.js"
