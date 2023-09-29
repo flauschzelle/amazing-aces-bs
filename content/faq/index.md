@@ -39,24 +39,24 @@ Deshalb wollen wir einen Raum schaffen, in dem wir uns mit anderen Menschen des 
 
 ##<a name="orga"></a>Wer organisiert das?
 
-Der Stammtisch wurde von **Kirstin** und **Lena** gegründet. Wir sorgen dafür, dass die Termine auf dieser Website und an anderen Orten angekündigt werden, und sind auch für euch [ansprechbar](/kontakt/), falls ihr Fragen habt.  
-Wenn ihr Ideen habt, könnt ihr die auch gerne einbringen, wir bieten euch nur den Rahmen, der von euch mit Inhalten gefüllt werden kann.
+Der Stammtisch wurde von **Kiki** und **Lena** gegründet. Wir sorgen dafür, dass die Termine auf dieser Website und an anderen Orten angekündigt werden, und sind auch für euch [ansprechbar](/kontakt/), falls ihr Fragen habt.  
+Wenn ihr Ideen habt, könnt ihr die auch gerne einbringen, wir bieten euch nur den Rahmen, der von euch mit Inhalten gefüllt werden kann. Wir freuen uns auch, wenn sich noch weitere Menschen an der Organisation beteiligen mögen - sprecht uns gerne an!
 
 ![Foto_Hochformat_float_right](kirstin.jpg)
 
-**Kirstin:** *Ich wurde 1987 geboren und verstehe mich seit 2015 als irgendwo im asexuellen Spektrum (wo genau, bin ich mir im Moment nicht sicher). Außerdem lebe ich polyamor, bin selbständig als Schneidermeisterin und studiere Informatik an der TU Braunschweig.*  
-*Ich habe die Amazing Aces mitgegründet, weil mir die Sichtbarkeit von Asexualität wichtig ist (hätte ich mehr darüber gewusst, wäre mein Coming-out sicherlich früher und einfacher gewesen). Außerdem möchte ich eine Community schaffen, in der wir Aces uns nicht als Außenseiter\*innen fühlen müssen und uns mit unseren Erfahrungen gegenseitig unterstützen können.*
+**Kiki:** *Ich wurde 1987 geboren und verstehe mich seit 2015 als irgendwo im asexuellen Spektrum (meist bezeichne ich mich als gray-ace). Außerdem lebe ich polyamor, arbeite als Software-Entwicklerin und bin selbständig als Schneidermeisterin.*  
+*Ich habe die Amazing Aces mitgegründet, weil mir die Sichtbarkeit des asexuellen Spektrums wichtig ist (hätte ich mehr darüber gewusst, wäre mein Coming-out sicherlich früher und einfacher gewesen). Dazu möchte ich eine Community schaffen, in der wir Aces uns nicht als Außenseiter\*innen fühlen müssen und uns mit unseren Erfahrungen gegenseitig unterstützen können.*
 
 ![Foto_Hochformat_float_left](lena.jpg) 
 
 **Lena:** *Ich wurde 1984 geboren und bin lesbisch, trans, polyamor und im asexuellen Spektrum. Wo ich mich dort genau einordne, hat sich schon ein paar mal geändert und ist auch jetzt noch im Fluss. Ich bin Software-Entwicklerin und mache hier und da ein bisschen queeren Aktivismus im kleinen Stil.*  
-*Ich habe die Amazing Aces mitgegründet, weil ich in anderen Kontexten bereits erlebt habe, wie wertvoll es sein kann, sich mit Menschen in einer ähnlichen Lebenssituation auszutauschen. Dabei habe ich einen deutlich kleineren Anteil an der Organisation als Kirstin.*
+*Ich habe die Amazing Aces mitgegründet, weil ich in anderen Kontexten bereits erlebt habe, wie wertvoll es sein kann, sich mit Menschen in einer ähnlichen Lebenssituation auszutauschen. Dabei habe ich einen deutlich kleineren Anteil an der Organisation als Kiki.*
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="wieviele"></a>Wieviele Leute seid ihr?
 
-Beim Stammtisch sind wir bisher (Stand: Frühling 2019) oft eher eine kleine Gruppe, meistens zwischen drei und sieben Leute. Wir freuen uns immer über neue Gesichter :)
+Beim Stammtisch sind wir bisher (Stand: Herbst 2023) oft eher eine kleine Gruppe, meistens zwischen drei und sieben Leute. Wir freuen uns immer über neue Gesichter :)
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -77,7 +77,7 @@ Da gibt es mehrere Möglichkeiten:
 
 ##<a name="waspassiert"></a>Was passiert denn bei so einem Stammtisch?
 
-Meistens sitzen wir gemütlich in einer Runde auf den Sofas und unterhalten uns, manchmal haben wir dabei auch etwas zu Essen und zu Trinken (falls jemand etwas mitbringt, und es gibt einen Wasserkocher vor Ort). 
+Meistens sitzen wir gemütlich in einer Runde auf Sofas, Picknickdecken oder in der Videokonferenz und unterhalten uns, manchmal haben wir dabei auch etwas zu Essen und zu Trinken. 
 Wenn neue Leute dabei sind, machen wir am Anfang meistens eine kurze Vorstellungsrunde.  
 Wenn Jemand ein bestimmtes Thema vorschlägt (manchmal schicken wir auch Themenvorschläge vorher per e-mail rum), dann reden wir zuerst über dieses Thema - anonsten bzw. danach über irgendwas, was uns spontan so einfällt.
 
@@ -114,22 +114,26 @@ Das ist so allgemein schwierig zu beantworten. In erster Linie ist der Stammtisc
 
 ##<a name="wo"></a>Wo findet das Treffen statt?
 
-Wir treffen uns im Raum der [Frauenbibliothek](https://www.frauenbib-bs.de/) an der TU Braunschweig, Zimmerstraße 24D. Der Raum ist im ersten Stock (es gibt leider keinen Aufzug). Auch wenn der Name es vielleicht nicht vermuten lässt, sind dort alle Menschen willkommen -  unabhängig von Geschlecht und Alter, egal ob Studi oder nicht.
+Früher haben wir uns im Raum der [Frauenbibliothek](https://www.frauenbib-bs.de/) an der TU Braunschweig getroffen. 
 
-Dort gibt es gemütliche Sitzgelegenheiten und wir sind ab 20 Uhr ungestört. Vorher hat die Bibliothek geöffnet - wenn ihr schon früher da sein möchtet, könnt ihr euch also schonmal umschauen und es euch gemütlich machen.
+Seit Beginn der Covid19-Pandemie treffen wir uns nun meistens online, d.h. in einem Videokonferenz-Raum mit BigBlueButton. 
+Wenn das Wetter es zulässt, treffen wir uns auch gerne mal draußen an der frischen Luft, und machen zusammen ein Picknick.
+
+Vermutlich werden wir uns in Zukunft auch drinnen an einem anderen Ort treffen als in der Frauenbibliothek - es steht aber noch nicht fest, wo. Wir freuen uns über Vorschläge!
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="essen"></a>Muss ich da etwas zu essen oder trinken kaufen?
 
-Essen und Getränke dürft ihr euch gerne selbst mitbringen, wenn ihr mögt. Wir haben einen Wasserkocher, Tassen und Gläser.  
-Es gibt in der Frauenbibliothek nichts zu kaufen, ihr seid also auch nicht verpflichtet, Geld auszugeben.
+Essen und Getränke dürft ihr gerne mitbringen, vor allem natürlich bei den Picknick-Treffen.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="rollstuhl"></a>Ist der Zugang zum Stammtisch rollstuhlgerecht?
 
-Derzeit leider nicht, da der Raum im ersten Stock liegt und das Gebäude keinen Aufzug hat. Das tut uns sehr leid und wir sind offen für Vorschläge, welchen anderen Raum wir für den Stammtisch nutzen könnten, der in dieser Hinsicht besser ist.
+Bei Picknick-Treffen können wir uns jederzeit einen Platz suchen, der gut zugänglich ist. Und Online-Treffen sind ja sowieso Orts-unabhängig.
+
+Wenn wir uns mal wieder in einem Innenraum treffen, dann kommt es natürlich auf die jeweilige Location an. Vermutlich werden wir uns in Zukunft auch drinnen an einem anderen Ort treffen als in der Frauenbibliothek - es steht aber noch nicht fest, wo. Wir freuen uns über Vorschläge!
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
